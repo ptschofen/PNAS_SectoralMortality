@@ -1,7 +1,7 @@
 ############################################################## 
 #########  Effective Heights  ################################
 
-setwd('C:/Users/ptsch/Box Sync/PNAS_SectoralMortality/Effective Heights Calculations')
+setwd('...Effective Heights Calculations') #__#
 
 library(beepr)
 library(dplyr)
@@ -106,6 +106,6 @@ for (i in 1:nrow(eff.height)){
   else{eff.height$easiur.assignment[i]<-'Area'}
 }
 
-setwd('C:/Users/ptsch/Desktop/PNAS_SectoralMortality')
+setwd('.../PNAS_SectoralMortality')
 
 write.csv(eff.height, 'eff_heights_2014.csv', row.names=F)
