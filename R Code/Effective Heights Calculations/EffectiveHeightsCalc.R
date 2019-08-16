@@ -7,7 +7,8 @@ library(beepr)
 library(dplyr)
 
 ## Approach with smoke file
-# read in data
+# read in data: file size is 2.3 GB and was obtained from EPA's FTP server
+# Link: ftp://newftp.epa.gov/air/nei/2014/flat_files/
 smoke<-read.csv('SmokeFlatFile_POINT_20160928.csv', 
                 stringsAsFactors = F, skip=105)[,c(4, 12:14, 18:23)]
 smoke<-subset(smoke, smoke$POLL=='PM25-PRI' | 
