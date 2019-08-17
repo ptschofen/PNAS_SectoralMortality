@@ -1,0 +1,557 @@
+"Notes"	"State"	"State Code"	"2013 Urbanization"	"2013 Urbanization Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Large Central Metro"	"1"	"85+ years"	"85+"	1922	13681	14048.7
+"Total"	"Alabama"	"01"	"Large Central Metro"	"1"			1922	13681	14048.7
+	"Alabama"	"01"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	1055	6913	15261.1
+"Total"	"Alabama"	"01"	"Large Fringe Metro"	"2"			1055	6913	15261.1
+	"Alabama"	"01"	"Medium Metro"	"3"	"85+ years"	"85+"	2954	20109	14689.9
+"Total"	"Alabama"	"01"	"Medium Metro"	"3"			2954	20109	14689.9
+	"Alabama"	"01"	"Small Metro"	"4"	"85+ years"	"85+"	3323	21366	15552.7
+"Total"	"Alabama"	"01"	"Small Metro"	"4"			3323	21366	15552.7
+	"Alabama"	"01"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1306	8874	14717.2
+"Total"	"Alabama"	"01"	"Micropolitan (non-metro)"	"5"			1306	8874	14717.2
+	"Alabama"	"01"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1917	12624	15185.4
+"Total"	"Alabama"	"01"	"NonCore (non-metro)"	"6"			1917	12624	15185.4
+"Total"	"Alabama"	"01"					12477	83567	14930.5
+	"Alaska"	"02"	"Medium Metro"	"3"	"85+ years"	"85+"	395	3180	12421.4
+"Total"	"Alaska"	"02"	"Medium Metro"	"3"			395	3180	12421.4
+	"Alaska"	"02"	"Small Metro"	"4"	"85+ years"	"85+"	80	659	12139.6
+"Total"	"Alaska"	"02"	"Small Metro"	"4"			80	659	12139.6
+	"Alaska"	"02"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	63	513	12280.7
+"Total"	"Alaska"	"02"	"Micropolitan (non-metro)"	"5"			63	513	12280.7
+	"Alaska"	"02"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	194	1579	12286.3
+"Total"	"Alaska"	"02"	"NonCore (non-metro)"	"6"			194	1579	12286.3
+"Total"	"Alaska"	"02"					732	5931	12341.9
+	"Arizona"	"04"	"Large Central Metro"	"1"	"85+ years"	"85+"	8600	70230	12245.5
+"Total"	"Arizona"	"04"	"Large Central Metro"	"1"			8600	70230	12245.5
+	"Arizona"	"04"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	546	5457	10005.5
+"Total"	"Arizona"	"04"	"Large Fringe Metro"	"2"			546	5457	10005.5
+	"Arizona"	"04"	"Medium Metro"	"3"	"85+ years"	"85+"	2756	23328	11814.1
+"Total"	"Arizona"	"04"	"Medium Metro"	"3"			2756	23328	11814.1
+	"Arizona"	"04"	"Small Metro"	"4"	"85+ years"	"85+"	2326	19966	11649.8
+"Total"	"Arizona"	"04"	"Small Metro"	"4"			2326	19966	11649.8
+	"Arizona"	"04"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	557	4168	13363.7
+"Total"	"Arizona"	"04"	"Micropolitan (non-metro)"	"5"			557	4168	13363.7
+	"Arizona"	"04"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	161	1623	9919.9
+"Total"	"Arizona"	"04"	"NonCore (non-metro)"	"6"			161	1623	9919.9
+"Total"	"Arizona"	"04"					14946	124772	11978.6
+	"Arkansas"	"05"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	81	673	12035.7
+"Total"	"Arkansas"	"05"	"Large Fringe Metro"	"2"			81	673	12035.7
+	"Arkansas"	"05"	"Medium Metro"	"3"	"85+ years"	"85+"	3080	21877	14078.7
+"Total"	"Arkansas"	"05"	"Medium Metro"	"3"			3080	21877	14078.7
+	"Arkansas"	"05"	"Small Metro"	"4"	"85+ years"	"85+"	1055	7351	14351.8
+"Total"	"Arkansas"	"05"	"Small Metro"	"4"			1055	7351	14351.8
+	"Arkansas"	"05"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1660	11531	14396.0
+"Total"	"Arkansas"	"05"	"Micropolitan (non-metro)"	"5"			1660	11531	14396.0
+	"Arkansas"	"05"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1971	13618	14473.5
+"Total"	"Arkansas"	"05"	"NonCore (non-metro)"	"6"			1971	13618	14473.5
+"Total"	"Arkansas"	"05"					7847	55050	14254.3
+	"California"	"06"	"Large Central Metro"	"1"	"85+ years"	"85+"	50848	438971	11583.5
+"Total"	"California"	"06"	"Large Central Metro"	"1"			50848	438971	11583.5
+	"California"	"06"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	10641	87936	12100.8
+"Total"	"California"	"06"	"Large Fringe Metro"	"2"			10641	87936	12100.8
+	"California"	"06"	"Medium Metro"	"3"	"85+ years"	"85+"	15101	119071	12682.3
+"Total"	"California"	"06"	"Medium Metro"	"3"			15101	119071	12682.3
+	"California"	"06"	"Small Metro"	"4"	"85+ years"	"85+"	2851	22847	12478.7
+"Total"	"California"	"06"	"Small Metro"	"4"			2851	22847	12478.7
+	"California"	"06"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1671	13302	12562.0
+"Total"	"California"	"06"	"Micropolitan (non-metro)"	"5"			1671	13302	12562.0
+	"California"	"06"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	859	6523	13168.8
+"Total"	"California"	"06"	"NonCore (non-metro)"	"6"			859	6523	13168.8
+"Total"	"California"	"06"					81971	688650	11903.1
+	"Colorado"	"08"	"Large Central Metro"	"1"	"85+ years"	"85+"	1358	10305	13178.1
+"Total"	"Colorado"	"08"	"Large Central Metro"	"1"			1358	10305	13178.1
+	"Colorado"	"08"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	3810	28629	13308.2
+"Total"	"Colorado"	"08"	"Large Fringe Metro"	"2"			3810	28629	13308.2
+	"Colorado"	"08"	"Medium Metro"	"3"	"85+ years"	"85+"	3106	22671	13700.3
+"Total"	"Colorado"	"08"	"Medium Metro"	"3"			3106	22671	13700.3
+	"Colorado"	"08"	"Small Metro"	"4"	"85+ years"	"85+"	1051	7262	14472.6
+"Total"	"Colorado"	"08"	"Small Metro"	"4"			1051	7262	14472.6
+	"Colorado"	"08"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	813	5962	13636.4
+"Total"	"Colorado"	"08"	"Micropolitan (non-metro)"	"5"			813	5962	13636.4
+	"Colorado"	"08"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	907	6798	13342.2
+"Total"	"Colorado"	"08"	"NonCore (non-metro)"	"6"			907	6798	13342.2
+"Total"	"Colorado"	"08"					11045	81627	13531.1
+	"Connecticut"	"09"	"Large Central Metro"	"1"	"85+ years"	"85+"	3293	23769	13854.2
+"Total"	"Connecticut"	"09"	"Large Central Metro"	"1"			3293	23769	13854.2
+	"Connecticut"	"09"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	945	7357	12844.9
+"Total"	"Connecticut"	"09"	"Large Fringe Metro"	"2"			945	7357	12844.9
+	"Connecticut"	"09"	"Medium Metro"	"3"	"85+ years"	"85+"	7279	53715	13551.1
+"Total"	"Connecticut"	"09"	"Medium Metro"	"3"			7279	53715	13551.1
+	"Connecticut"	"09"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	710	4944	14360.8
+"Total"	"Connecticut"	"09"	"Micropolitan (non-metro)"	"5"			710	4944	14360.8
+"Total"	"Connecticut"	"09"					12227	89785	13618.1
+	"Delaware"	"10"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	1355	10311	13141.3
+"Total"	"Delaware"	"10"	"Large Fringe Metro"	"2"			1355	10311	13141.3
+	"Delaware"	"10"	"Medium Metro"	"3"	"85+ years"	"85+"	752	4924	15272.1
+"Total"	"Delaware"	"10"	"Medium Metro"	"3"			752	4924	15272.1
+	"Delaware"	"10"	"Small Metro"	"4"	"85+ years"	"85+"	381	2716	14028.0
+"Total"	"Delaware"	"10"	"Small Metro"	"4"			381	2716	14028.0
+"Total"	"Delaware"	"10"					2488	17951	13860.0
+	"District of Columbia"	"11"	"Large Central Metro"	"1"	"85+ years"	"85+"	1297	11203	11577.3
+"Total"	"District of Columbia"	"11"	"Large Central Metro"	"1"			1297	11203	11577.3
+"Total"	"District of Columbia"	"11"					1297	11203	11577.3
+	"Florida"	"12"	"Large Central Metro"	"1"	"85+ years"	"85+"	17705	147592	11995.9
+"Total"	"Florida"	"12"	"Large Central Metro"	"1"			17705	147592	11995.9
+	"Florida"	"12"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	18000	157788	11407.7
+"Total"	"Florida"	"12"	"Large Fringe Metro"	"2"			18000	157788	11407.7
+	"Florida"	"12"	"Medium Metro"	"3"	"85+ years"	"85+"	19200	164870	11645.5
+"Total"	"Florida"	"12"	"Medium Metro"	"3"			19200	164870	11645.5
+	"Florida"	"12"	"Small Metro"	"4"	"85+ years"	"85+"	4668	37974	12292.6
+"Total"	"Florida"	"12"	"Small Metro"	"4"			4668	37974	12292.6
+	"Florida"	"12"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	905	7272	12445.0
+"Total"	"Florida"	"12"	"Micropolitan (non-metro)"	"5"			905	7272	12445.0
+	"Florida"	"12"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	969	6795	14260.5
+"Total"	"Florida"	"12"	"NonCore (non-metro)"	"6"			969	6795	14260.5
+"Total"	"Florida"	"12"					61447	522291	11764.9
+	"Georgia"	"13"	"Large Central Metro"	"1"	"85+ years"	"85+"	1784	13486	13228.5
+"Total"	"Georgia"	"13"	"Large Central Metro"	"1"			1784	13486	13228.5
+	"Georgia"	"13"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	6903	48206	14319.8
+"Total"	"Georgia"	"13"	"Large Fringe Metro"	"2"			6903	48206	14319.8
+	"Georgia"	"13"	"Medium Metro"	"3"	"85+ years"	"85+"	2520	17290	14574.9
+"Total"	"Georgia"	"13"	"Medium Metro"	"3"			2520	17290	14574.9
+	"Georgia"	"13"	"Small Metro"	"4"	"85+ years"	"85+"	3263	22214	14688.9
+"Total"	"Georgia"	"13"	"Small Metro"	"4"			3263	22214	14688.9
+	"Georgia"	"13"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2368	15332	15444.8
+"Total"	"Georgia"	"13"	"Micropolitan (non-metro)"	"5"			2368	15332	15444.8
+	"Georgia"	"13"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	2116	14666	14427.9
+"Total"	"Georgia"	"13"	"NonCore (non-metro)"	"6"			2116	14666	14427.9
+"Total"	"Georgia"	"13"					18954	131194	14447.3
+	"Hawaii"	"15"	"Medium Metro"	"3"	"85+ years"	"85+"	2928	27311	10721.0
+"Total"	"Hawaii"	"15"	"Medium Metro"	"3"			2928	27311	10721.0
+	"Hawaii"	"15"	"Small Metro"	"4"	"85+ years"	"85+"	351	3285	10684.9
+"Total"	"Hawaii"	"15"	"Small Metro"	"4"			351	3285	10684.9
+	"Hawaii"	"15"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	718	6295	11405.9
+"Total"	"Hawaii"	"15"	"Micropolitan (non-metro)"	"5"			718	6295	11405.9
+"Total"	"Hawaii"	"15"					3997	36891	10834.6
+	"Idaho"	"16"	"Medium Metro"	"3"	"85+ years"	"85+"	1443	10229	14107.0
+"Total"	"Idaho"	"16"	"Medium Metro"	"3"			1443	10229	14107.0
+	"Idaho"	"16"	"Small Metro"	"4"	"85+ years"	"85+"	1155	7593	15211.4
+"Total"	"Idaho"	"16"	"Small Metro"	"4"			1155	7593	15211.4
+	"Idaho"	"16"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	964	6451	14943.4
+"Total"	"Idaho"	"16"	"Micropolitan (non-metro)"	"5"			964	6451	14943.4
+	"Idaho"	"16"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	451	3076	14661.9
+"Total"	"Idaho"	"16"	"NonCore (non-metro)"	"6"			451	3076	14661.9
+"Total"	"Idaho"	"16"					4013	27349	14673.3
+	"Illinois"	"17"	"Large Central Metro"	"1"	"85+ years"	"85+"	12784	99135	12895.5
+"Total"	"Illinois"	"17"	"Large Central Metro"	"1"			12784	99135	12895.5
+	"Illinois"	"17"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	10044	69511	14449.5
+"Total"	"Illinois"	"17"	"Large Fringe Metro"	"2"			10044	69511	14449.5
+	"Illinois"	"17"	"Medium Metro"	"3"	"85+ years"	"85+"	3223	22220	14505.0
+"Total"	"Illinois"	"17"	"Medium Metro"	"3"			3223	22220	14505.0
+	"Illinois"	"17"	"Small Metro"	"4"	"85+ years"	"85+"	3138	22607	13880.7
+"Total"	"Illinois"	"17"	"Small Metro"	"4"			3138	22607	13880.7
+	"Illinois"	"17"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	3572	25309	14113.6
+"Total"	"Illinois"	"17"	"Micropolitan (non-metro)"	"5"			3572	25309	14113.6
+	"Illinois"	"17"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	2554	17270	14788.7
+"Total"	"Illinois"	"17"	"NonCore (non-metro)"	"6"			2554	17270	14788.7
+"Total"	"Illinois"	"17"					35315	256052	13792.1
+	"Indiana"	"18"	"Large Central Metro"	"1"	"85+ years"	"85+"	2120	14914	14214.8
+"Total"	"Indiana"	"18"	"Large Central Metro"	"1"			2120	14914	14214.8
+	"Indiana"	"18"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	5288	36506	14485.3
+"Total"	"Indiana"	"18"	"Large Fringe Metro"	"2"			5288	36506	14485.3
+	"Indiana"	"18"	"Medium Metro"	"3"	"85+ years"	"85+"	3092	20948	14760.4
+"Total"	"Indiana"	"18"	"Medium Metro"	"3"			3092	20948	14760.4
+	"Indiana"	"18"	"Small Metro"	"4"	"85+ years"	"85+"	3161	21915	14423.9
+"Total"	"Indiana"	"18"	"Small Metro"	"4"			3161	21915	14423.9
+	"Indiana"	"18"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	3253	22280	14600.5
+"Total"	"Indiana"	"18"	"Micropolitan (non-metro)"	"5"			3253	22280	14600.5
+	"Indiana"	"18"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1458	9860	14787.0
+"Total"	"Indiana"	"18"	"NonCore (non-metro)"	"6"			1458	9860	14787.0
+"Total"	"Indiana"	"18"					18372	126423	14532.2
+	"Iowa"	"19"	"Medium Metro"	"3"	"85+ years"	"85+"	3171	22460	14118.4
+"Total"	"Iowa"	"19"	"Medium Metro"	"3"			3171	22460	14118.4
+	"Iowa"	"19"	"Small Metro"	"4"	"85+ years"	"85+"	1916	13948	13736.7
+"Total"	"Iowa"	"19"	"Small Metro"	"4"			1916	13948	13736.7
+	"Iowa"	"19"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2024	14499	13959.6
+"Total"	"Iowa"	"19"	"Micropolitan (non-metro)"	"5"			2024	14499	13959.6
+	"Iowa"	"19"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	4054	27795	14585.4
+"Total"	"Iowa"	"19"	"NonCore (non-metro)"	"6"			4054	27795	14585.4
+"Total"	"Iowa"	"19"					11165	78702	14186.4
+	"Kansas"	"20"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	2145	15551	13793.3
+"Total"	"Kansas"	"20"	"Large Fringe Metro"	"2"			2145	15551	13793.3
+	"Kansas"	"20"	"Medium Metro"	"3"	"85+ years"	"85+"	1792	12355	14504.2
+"Total"	"Kansas"	"20"	"Medium Metro"	"3"			1792	12355	14504.2
+	"Kansas"	"20"	"Small Metro"	"4"	"85+ years"	"85+"	1282	9035	14189.3
+"Total"	"Kansas"	"20"	"Small Metro"	"4"			1282	9035	14189.3
+	"Kansas"	"20"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1908	13111	14552.7
+"Total"	"Kansas"	"20"	"Micropolitan (non-metro)"	"5"			1908	13111	14552.7
+	"Kansas"	"20"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1848	13775	13415.6
+"Total"	"Kansas"	"20"	"NonCore (non-metro)"	"6"			1848	13775	13415.6
+"Total"	"Kansas"	"20"					8975	63827	14061.4
+	"Kentucky"	"21"	"Large Central Metro"	"1"	"85+ years"	"85+"	2228	15693	14197.4
+"Total"	"Kentucky"	"21"	"Large Central Metro"	"1"			2228	15693	14197.4
+	"Kentucky"	"21"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	1320	8890	14848.1
+"Total"	"Kentucky"	"21"	"Large Fringe Metro"	"2"			1320	8890	14848.1
+	"Kentucky"	"21"	"Medium Metro"	"3"	"85+ years"	"85+"	1712	11828	14474.1
+"Total"	"Kentucky"	"21"	"Medium Metro"	"3"			1712	11828	14474.1
+	"Kentucky"	"21"	"Small Metro"	"4"	"85+ years"	"85+"	1016	7210	14091.5
+"Total"	"Kentucky"	"21"	"Small Metro"	"4"			1016	7210	14091.5
+	"Kentucky"	"21"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2371	15304	15492.7
+"Total"	"Kentucky"	"21"	"Micropolitan (non-metro)"	"5"			2371	15304	15492.7
+	"Kentucky"	"21"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	2683	16970	15810.3
+"Total"	"Kentucky"	"21"	"NonCore (non-metro)"	"6"			2683	16970	15810.3
+"Total"	"Kentucky"	"21"					11330	75895	14928.5
+	"Louisiana"	"22"	"Large Central Metro"	"1"	"85+ years"	"85+"	714	6035	11831.0
+"Total"	"Louisiana"	"22"	"Large Central Metro"	"1"			714	6035	11831.0
+	"Louisiana"	"22"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	2145	15377	13949.4
+"Total"	"Louisiana"	"22"	"Large Fringe Metro"	"2"			2145	15377	13949.4
+	"Louisiana"	"22"	"Medium Metro"	"3"	"85+ years"	"85+"	3903	26512	14721.6
+"Total"	"Louisiana"	"22"	"Medium Metro"	"3"			3903	26512	14721.6
+	"Louisiana"	"22"	"Small Metro"	"4"	"85+ years"	"85+"	2003	13364	14988.0
+"Total"	"Louisiana"	"22"	"Small Metro"	"4"			2003	13364	14988.0
+	"Louisiana"	"22"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1001	6456	15505.0
+"Total"	"Louisiana"	"22"	"Micropolitan (non-metro)"	"5"			1001	6456	15505.0
+	"Louisiana"	"22"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1001	6682	14980.5
+"Total"	"Louisiana"	"22"	"NonCore (non-metro)"	"6"			1001	6682	14980.5
+"Total"	"Louisiana"	"22"					10767	74426	14466.7
+	"Maine"	"23"	"Medium Metro"	"3"	"85+ years"	"85+"	1823	12535	14543.3
+"Total"	"Maine"	"23"	"Medium Metro"	"3"			1823	12535	14543.3
+	"Maine"	"23"	"Small Metro"	"4"	"85+ years"	"85+"	816	5672	14386.5
+"Total"	"Maine"	"23"	"Small Metro"	"4"			816	5672	14386.5
+	"Maine"	"23"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	476	2797	17018.2
+"Total"	"Maine"	"23"	"Micropolitan (non-metro)"	"5"			476	2797	17018.2
+	"Maine"	"23"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1578	10717	14724.3
+"Total"	"Maine"	"23"	"NonCore (non-metro)"	"6"			1578	10717	14724.3
+"Total"	"Maine"	"23"					4693	31721	14794.6
+	"Maryland"	"24"	"Large Central Metro"	"1"	"85+ years"	"85+"	1579	10593	14906.1
+"Total"	"Maryland"	"24"	"Large Central Metro"	"1"			1579	10593	14906.1
+	"Maryland"	"24"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	10493	85446	12280.3
+"Total"	"Maryland"	"24"	"Large Fringe Metro"	"2"			10493	85446	12280.3
+	"Maryland"	"24"	"Medium Metro"	"3"	"85+ years"	"85+"	1058	7319	14455.5
+"Total"	"Maryland"	"24"	"Medium Metro"	"3"			1058	7319	14455.5
+	"Maryland"	"24"	"Small Metro"	"4"	"85+ years"	"85+"	498	3428	14527.4
+"Total"	"Maryland"	"24"	"Small Metro"	"4"			498	3428	14527.4
+	"Maryland"	"24"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	297	2205	13469.4
+"Total"	"Maryland"	"24"	"Micropolitan (non-metro)"	"5"			297	2205	13469.4
+	"Maryland"	"24"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	288	2017	14278.6
+"Total"	"Maryland"	"24"	"NonCore (non-metro)"	"6"			288	2017	14278.6
+"Total"	"Maryland"	"24"					14213	111008	12803.6
+	"Massachusetts"	"25"	"Large Central Metro"	"1"	"85+ years"	"85+"	1525	12329	12369.2
+"Total"	"Massachusetts"	"25"	"Large Central Metro"	"1"			1525	12329	12369.2
+	"Massachusetts"	"25"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	12893	95936	13439.2
+"Total"	"Massachusetts"	"25"	"Large Fringe Metro"	"2"			12893	95936	13439.2
+	"Massachusetts"	"25"	"Medium Metro"	"3"	"85+ years"	"85+"	4748	33329	14245.9
+"Total"	"Massachusetts"	"25"	"Medium Metro"	"3"			4748	33329	14245.9
+	"Massachusetts"	"25"	"Small Metro"	"4"	"85+ years"	"85+"	1842	13196	13958.8
+"Total"	"Massachusetts"	"25"	"Small Metro"	"4"			1842	13196	13958.8
+	"Massachusetts"	"25"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	338	2203	15342.7
+"Total"	"Massachusetts"	"25"	"Micropolitan (non-metro)"	"5"			338	2203	15342.7
+	"Massachusetts"	"25"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	25	201	12437.8
+"Total"	"Massachusetts"	"25"	"NonCore (non-metro)"	"6"			25	201	12437.8
+"Total"	"Massachusetts"	"25"					21371	157194	13595.3
+	"Michigan"	"26"	"Large Central Metro"	"1"	"85+ years"	"85+"	6811	48252	14115.5
+"Total"	"Michigan"	"26"	"Large Central Metro"	"1"			6811	48252	14115.5
+	"Michigan"	"26"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	8981	62946	14267.8
+"Total"	"Michigan"	"26"	"Large Fringe Metro"	"2"			8981	62946	14267.8
+	"Michigan"	"26"	"Medium Metro"	"3"	"85+ years"	"85+"	4310	30143	14298.5
+"Total"	"Michigan"	"26"	"Medium Metro"	"3"			4310	30143	14298.5
+	"Michigan"	"26"	"Small Metro"	"4"	"85+ years"	"85+"	3909	27018	14468.1
+"Total"	"Michigan"	"26"	"Small Metro"	"4"			3909	27018	14468.1
+	"Michigan"	"26"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	3718	24789	14998.6
+"Total"	"Michigan"	"26"	"Micropolitan (non-metro)"	"5"			3718	24789	14998.6
+	"Michigan"	"26"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	2666	17673	15085.2
+"Total"	"Michigan"	"26"	"NonCore (non-metro)"	"6"			2666	17673	15085.2
+"Total"	"Michigan"	"26"					30395	210821	14417.4
+	"Minnesota"	"27"	"Large Central Metro"	"1"	"85+ years"	"85+"	4652	35139	13238.9
+"Total"	"Minnesota"	"27"	"Large Central Metro"	"1"			4652	35139	13238.9
+	"Minnesota"	"27"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	3235	23854	13561.7
+"Total"	"Minnesota"	"27"	"Large Fringe Metro"	"2"			3235	23854	13561.7
+	"Minnesota"	"27"	"Medium Metro"	"3"	"85+ years"	"85+"	921	6067	15180.5
+"Total"	"Minnesota"	"27"	"Medium Metro"	"3"			921	6067	15180.5
+	"Minnesota"	"27"	"Small Metro"	"4"	"85+ years"	"85+"	1888	13907	13575.9
+"Total"	"Minnesota"	"27"	"Small Metro"	"4"			1888	13907	13575.9
+	"Minnesota"	"27"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2646	18802	14073.0
+"Total"	"Minnesota"	"27"	"Micropolitan (non-metro)"	"5"			2646	18802	14073.0
+	"Minnesota"	"27"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	2551	18893	13502.4
+"Total"	"Minnesota"	"27"	"NonCore (non-metro)"	"6"			2551	18893	13502.4
+"Total"	"Minnesota"	"27"					15893	116662	13623.1
+	"Mississippi"	"28"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	440	3169	13884.5
+"Total"	"Mississippi"	"28"	"Large Fringe Metro"	"2"			440	3169	13884.5
+	"Mississippi"	"28"	"Medium Metro"	"3"	"85+ years"	"85+"	2041	14599	13980.4
+"Total"	"Mississippi"	"28"	"Medium Metro"	"3"			2041	14599	13980.4
+	"Mississippi"	"28"	"Small Metro"	"4"	"85+ years"	"85+"	281	2201	12766.9
+"Total"	"Mississippi"	"28"	"Small Metro"	"4"			281	2201	12766.9
+	"Mississippi"	"28"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2535	17175	14759.8
+"Total"	"Mississippi"	"28"	"Micropolitan (non-metro)"	"5"			2535	17175	14759.8
+	"Mississippi"	"28"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1882	12491	15066.8
+"Total"	"Mississippi"	"28"	"NonCore (non-metro)"	"6"			1882	12491	15066.8
+"Total"	"Mississippi"	"28"					7179	49635	14463.6
+	"Missouri"	"29"	"Large Central Metro"	"1"	"85+ years"	"85+"	2442	18565	13153.8
+"Total"	"Missouri"	"29"	"Large Central Metro"	"1"			2442	18565	13153.8
+	"Missouri"	"29"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	6626	48317	13713.6
+"Total"	"Missouri"	"29"	"Large Fringe Metro"	"2"			6626	48317	13713.6
+	"Missouri"	"29"	"Medium Metro"	"3"	"85+ years"	"85+"	1369	9569	14306.6
+"Total"	"Missouri"	"29"	"Medium Metro"	"3"			1369	9569	14306.6
+	"Missouri"	"29"	"Small Metro"	"4"	"85+ years"	"85+"	1925	13393	14373.2
+"Total"	"Missouri"	"29"	"Small Metro"	"4"			1925	13393	14373.2
+	"Missouri"	"29"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2096	14370	14585.9
+"Total"	"Missouri"	"29"	"Micropolitan (non-metro)"	"5"			2096	14370	14585.9
+	"Missouri"	"29"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	3044	20791	14641.0
+"Total"	"Missouri"	"29"	"NonCore (non-metro)"	"6"			3044	20791	14641.0
+"Total"	"Missouri"	"29"					17502	125005	14001.0
+	"Montana"	"30"	"Small Metro"	"4"	"85+ years"	"85+"	1027	7670	13389.8
+"Total"	"Montana"	"30"	"Small Metro"	"4"			1027	7670	13389.8
+	"Montana"	"30"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	799	5731	13941.7
+"Total"	"Montana"	"30"	"Micropolitan (non-metro)"	"5"			799	5731	13941.7
+	"Montana"	"30"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1166	8584	13583.4
+"Total"	"Montana"	"30"	"NonCore (non-metro)"	"6"			1166	8584	13583.4
+"Total"	"Montana"	"30"					2992	21985	13609.3
+	"Nebraska"	"31"	"Medium Metro"	"3"	"85+ years"	"85+"	2553	17808	14336.3
+"Total"	"Nebraska"	"31"	"Medium Metro"	"3"			2553	17808	14336.3
+	"Nebraska"	"31"	"Small Metro"	"4"	"85+ years"	"85+"	340	2552	13322.9
+"Total"	"Nebraska"	"31"	"Small Metro"	"4"			340	2552	13322.9
+	"Nebraska"	"31"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1277	9076	14070.1
+"Total"	"Nebraska"	"31"	"Micropolitan (non-metro)"	"5"			1277	9076	14070.1
+	"Nebraska"	"31"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1657	12416	13345.7
+"Total"	"Nebraska"	"31"	"NonCore (non-metro)"	"6"			1657	12416	13345.7
+"Total"	"Nebraska"	"31"					5827	41852	13922.9
+	"Nevada"	"32"	"Large Central Metro"	"1"	"85+ years"	"85+"	3087	25381	12162.6
+"Total"	"Nevada"	"32"	"Large Central Metro"	"1"			3087	25381	12162.6
+	"Nevada"	"32"	"Medium Metro"	"3"	"85+ years"	"85+"	976	6708	14549.8
+"Total"	"Nevada"	"32"	"Medium Metro"	"3"			976	6708	14549.8
+	"Nevada"	"32"	"Small Metro"	"4"	"85+ years"	"85+"	199	1382	14399.4
+"Total"	"Nevada"	"32"	"Small Metro"	"4"			199	1382	14399.4
+	"Nevada"	"32"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	538	3756	14323.7
+"Total"	"Nevada"	"32"	"Micropolitan (non-metro)"	"5"			538	3756	14323.7
+	"Nevada"	"32"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	67	537	12476.7
+"Total"	"Nevada"	"32"	"NonCore (non-metro)"	"6"			67	537	12476.7
+"Total"	"Nevada"	"32"					4867	37764	12887.9
+	"New Hampshire"	"33"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	1148	7868	14590.7
+"Total"	"New Hampshire"	"33"	"Large Fringe Metro"	"2"			1148	7868	14590.7
+	"New Hampshire"	"33"	"Medium Metro"	"3"	"85+ years"	"85+"	1084	7713	14054.2
+"Total"	"New Hampshire"	"33"	"Medium Metro"	"3"			1084	7713	14054.2
+	"New Hampshire"	"33"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1603	10858	14763.3
+"Total"	"New Hampshire"	"33"	"Micropolitan (non-metro)"	"5"			1603	10858	14763.3
+	"New Hampshire"	"33"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	202	1436	14066.9
+"Total"	"New Hampshire"	"33"	"NonCore (non-metro)"	"6"			202	1436	14066.9
+"Total"	"New Hampshire"	"33"					4037	27875	14482.5
+	"New Jersey"	"34"	"Large Central Metro"	"1"	"85+ years"	"85+"	4329	35303	12262.4
+"Total"	"New Jersey"	"34"	"Large Central Metro"	"1"			4329	35303	12262.4
+	"New Jersey"	"34"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	18658	137524	13567.1
+"Total"	"New Jersey"	"34"	"Large Fringe Metro"	"2"			18658	137524	13567.1
+	"New Jersey"	"34"	"Medium Metro"	"3"	"85+ years"	"85+"	2167	16121	13442.1
+"Total"	"New Jersey"	"34"	"Medium Metro"	"3"			2167	16121	13442.1
+	"New Jersey"	"34"	"Small Metro"	"4"	"85+ years"	"85+"	914	6012	15202.9
+"Total"	"New Jersey"	"34"	"Small Metro"	"4"			914	6012	15202.9
+"Total"	"New Jersey"	"34"					26068	194960	13370.9
+	"New Mexico"	"35"	"Medium Metro"	"3"	"85+ years"	"85+"	2149	15926	13493.7
+"Total"	"New Mexico"	"35"	"Medium Metro"	"3"			2149	15926	13493.7
+	"New Mexico"	"35"	"Small Metro"	"4"	"85+ years"	"85+"	1004	8396	11958.1
+"Total"	"New Mexico"	"35"	"Small Metro"	"4"			1004	8396	11958.1
+	"New Mexico"	"35"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1407	10653	13207.5
+"Total"	"New Mexico"	"35"	"Micropolitan (non-metro)"	"5"			1407	10653	13207.5
+	"New Mexico"	"35"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	278	2398	11593.0
+"Total"	"New Mexico"	"35"	"NonCore (non-metro)"	"6"			278	2398	11593.0
+"Total"	"New Mexico"	"35"					4838	37373	12945.2
+	"New York"	"36"	"Large Central Metro"	"1"	"85+ years"	"85+"	23491	200171	11735.5
+"Total"	"New York"	"36"	"Large Central Metro"	"1"			23491	200171	11735.5
+	"New York"	"36"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	16417	130429	12586.9
+"Total"	"New York"	"36"	"Large Fringe Metro"	"2"			16417	130429	12586.9
+	"New York"	"36"	"Medium Metro"	"3"	"85+ years"	"85+"	6040	44782	13487.6
+"Total"	"New York"	"36"	"Medium Metro"	"3"			6040	44782	13487.6
+	"New York"	"36"	"Small Metro"	"4"	"85+ years"	"85+"	2892	20643	14009.6
+"Total"	"New York"	"36"	"Small Metro"	"4"			2892	20643	14009.6
+	"New York"	"36"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	3392	24136	14053.7
+"Total"	"New York"	"36"	"Micropolitan (non-metro)"	"5"			3392	24136	14053.7
+	"New York"	"36"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1264	9021	14011.8
+"Total"	"New York"	"36"	"NonCore (non-metro)"	"6"			1264	9021	14011.8
+"Total"	"New York"	"36"					53496	429182	12464.6
+	"North Carolina"	"37"	"Large Central Metro"	"1"	"85+ years"	"85+"	3277	24650	13294.1
+"Total"	"North Carolina"	"37"	"Large Central Metro"	"1"			3277	24650	13294.1
+	"North Carolina"	"37"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	2771	18424	15040.2
+"Total"	"North Carolina"	"37"	"Large Fringe Metro"	"2"			2771	18424	15040.2
+	"North Carolina"	"37"	"Medium Metro"	"3"	"85+ years"	"85+"	9236	66124	13967.7
+"Total"	"North Carolina"	"37"	"Medium Metro"	"3"			9236	66124	13967.7
+	"North Carolina"	"37"	"Small Metro"	"4"	"85+ years"	"85+"	2133	15185	14046.8
+"Total"	"North Carolina"	"37"	"Small Metro"	"4"			2133	15185	14046.8
+	"North Carolina"	"37"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	4319	31490	13715.5
+"Total"	"North Carolina"	"37"	"Micropolitan (non-metro)"	"5"			4319	31490	13715.5
+	"North Carolina"	"37"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	2010	14509	13853.5
+"Total"	"North Carolina"	"37"	"NonCore (non-metro)"	"6"			2010	14509	13853.5
+"Total"	"North Carolina"	"37"					23746	170382	13936.9
+	"North Dakota"	"38"	"Small Metro"	"4"	"85+ years"	"85+"	953	7145	13338.0
+"Total"	"North Dakota"	"38"	"Small Metro"	"4"			953	7145	13338.0
+	"North Dakota"	"38"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	533	4168	12787.9
+"Total"	"North Dakota"	"38"	"Micropolitan (non-metro)"	"5"			533	4168	12787.9
+	"North Dakota"	"38"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	892	6646	13421.6
+"Total"	"North Dakota"	"38"	"NonCore (non-metro)"	"6"			892	6646	13421.6
+"Total"	"North Dakota"	"38"					2378	17959	13241.3
+	"Ohio"	"39"	"Large Central Metro"	"1"	"85+ years"	"85+"	9817	69408	14143.9
+"Total"	"Ohio"	"39"	"Large Central Metro"	"1"			9817	69408	14143.9
+	"Ohio"	"39"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	6146	43173	14235.7
+"Total"	"Ohio"	"39"	"Large Fringe Metro"	"2"			6146	43173	14235.7
+	"Ohio"	"39"	"Medium Metro"	"3"	"85+ years"	"85+"	10601	72646	14592.7
+"Total"	"Ohio"	"39"	"Medium Metro"	"3"			10601	72646	14592.7
+	"Ohio"	"39"	"Small Metro"	"4"	"85+ years"	"85+"	1863	12810	14543.3
+"Total"	"Ohio"	"39"	"Small Metro"	"4"			1863	12810	14543.3
+	"Ohio"	"39"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	6400	43262	14793.6
+"Total"	"Ohio"	"39"	"Micropolitan (non-metro)"	"5"			6400	43262	14793.6
+	"Ohio"	"39"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1400	9630	14537.9
+"Total"	"Ohio"	"39"	"NonCore (non-metro)"	"6"			1400	9630	14537.9
+"Total"	"Ohio"	"39"					36227	250929	14437.2
+	"Oklahoma"	"40"	"Large Central Metro"	"1"	"85+ years"	"85+"	1854	12698	14600.7
+"Total"	"Oklahoma"	"40"	"Large Central Metro"	"1"			1854	12698	14600.7
+	"Oklahoma"	"40"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	1129	7898	14294.8
+"Total"	"Oklahoma"	"40"	"Large Fringe Metro"	"2"			1129	7898	14294.8
+	"Oklahoma"	"40"	"Medium Metro"	"3"	"85+ years"	"85+"	2585	18531	13949.6
+"Total"	"Oklahoma"	"40"	"Medium Metro"	"3"			2585	18531	13949.6
+	"Oklahoma"	"40"	"Small Metro"	"4"	"85+ years"	"85+"	239	1673	14285.7
+"Total"	"Oklahoma"	"40"	"Small Metro"	"4"			239	1673	14285.7
+	"Oklahoma"	"40"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2372	15996	14828.7
+"Total"	"Oklahoma"	"40"	"Micropolitan (non-metro)"	"5"			2372	15996	14828.7
+	"Oklahoma"	"40"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1641	11296	14527.3
+"Total"	"Oklahoma"	"40"	"NonCore (non-metro)"	"6"			1641	11296	14527.3
+"Total"	"Oklahoma"	"40"					9820	68092	14421.7
+	"Oregon"	"41"	"Large Central Metro"	"1"	"85+ years"	"85+"	1749	13107	13344.0
+"Total"	"Oregon"	"41"	"Large Central Metro"	"1"			1749	13107	13344.0
+	"Oregon"	"41"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	2850	21394	13321.5
+"Total"	"Oregon"	"41"	"Large Fringe Metro"	"2"			2850	21394	13321.5
+	"Oregon"	"41"	"Medium Metro"	"3"	"85+ years"	"85+"	2436	16662	14620.1
+"Total"	"Oregon"	"41"	"Medium Metro"	"3"			2436	16662	14620.1
+	"Oregon"	"41"	"Small Metro"	"4"	"85+ years"	"85+"	2316	16200	14296.3
+"Total"	"Oregon"	"41"	"Small Metro"	"4"			2316	16200	14296.3
+	"Oregon"	"41"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1917	13717	13975.4
+"Total"	"Oregon"	"41"	"Micropolitan (non-metro)"	"5"			1917	13717	13975.4
+	"Oregon"	"41"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	337	2460	13699.2
+"Total"	"Oregon"	"41"	"NonCore (non-metro)"	"6"			337	2460	13699.2
+"Total"	"Oregon"	"41"					11605	83540	13891.5
+	"Pennsylvania"	"42"	"Large Central Metro"	"1"	"85+ years"	"85+"	9019	66120	13640.4
+"Total"	"Pennsylvania"	"42"	"Large Central Metro"	"1"			9019	66120	13640.4
+	"Pennsylvania"	"42"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	14083	99695	14126.1
+"Total"	"Pennsylvania"	"42"	"Large Fringe Metro"	"2"			14083	99695	14126.1
+	"Pennsylvania"	"42"	"Medium Metro"	"3"	"85+ years"	"85+"	13271	94958	13975.7
+"Total"	"Pennsylvania"	"42"	"Medium Metro"	"3"			13271	94958	13975.7
+	"Pennsylvania"	"42"	"Small Metro"	"4"	"85+ years"	"85+"	4172	29993	13909.9
+"Total"	"Pennsylvania"	"42"	"Small Metro"	"4"			4172	29993	13909.9
+	"Pennsylvania"	"42"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	4372	30120	14515.3
+"Total"	"Pennsylvania"	"42"	"Micropolitan (non-metro)"	"5"			4372	30120	14515.3
+	"Pennsylvania"	"42"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1546	10343	14947.3
+"Total"	"Pennsylvania"	"42"	"NonCore (non-metro)"	"6"			1546	10343	14947.3
+"Total"	"Pennsylvania"	"42"					46463	331229	14027.5
+	"Rhode Island"	"44"	"Large Central Metro"	"1"	"85+ years"	"85+"	2277	15998	14233.0
+"Total"	"Rhode Island"	"44"	"Large Central Metro"	"1"			2277	15998	14233.0
+	"Rhode Island"	"44"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	1702	12311	13825.0
+"Total"	"Rhode Island"	"44"	"Large Fringe Metro"	"2"			1702	12311	13825.0
+"Total"	"Rhode Island"	"44"					3979	28309	14055.6
+	"South Carolina"	"45"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	787	5167	15231.3
+"Total"	"South Carolina"	"45"	"Large Fringe Metro"	"2"			787	5167	15231.3
+	"South Carolina"	"45"	"Medium Metro"	"3"	"85+ years"	"85+"	7490	51093	14659.5
+"Total"	"South Carolina"	"45"	"Medium Metro"	"3"			7490	51093	14659.5
+	"South Carolina"	"45"	"Small Metro"	"4"	"85+ years"	"85+"	1381	9765	14142.3
+"Total"	"South Carolina"	"45"	"Small Metro"	"4"			1381	9765	14142.3
+	"South Carolina"	"45"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1258	8867	14187.4
+"Total"	"South Carolina"	"45"	"Micropolitan (non-metro)"	"5"			1258	8867	14187.4
+	"South Carolina"	"45"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	856	5492	15586.3
+"Total"	"South Carolina"	"45"	"NonCore (non-metro)"	"6"			856	5492	15586.3
+"Total"	"South Carolina"	"45"					11772	80384	14644.7
+	"South Dakota"	"46"	"Small Metro"	"4"	"85+ years"	"85+"	1008	8082	12472.2
+"Total"	"South Dakota"	"46"	"Small Metro"	"4"			1008	8082	12472.2
+	"South Dakota"	"46"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	849	6117	13879.4
+"Total"	"South Dakota"	"46"	"Micropolitan (non-metro)"	"5"			849	6117	13879.4
+	"South Dakota"	"46"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	886	6672	13279.4
+"Total"	"South Dakota"	"46"	"NonCore (non-metro)"	"6"			886	6672	13279.4
+"Total"	"South Dakota"	"46"					2743	20871	13142.6
+	"Tennessee"	"47"	"Large Central Metro"	"1"	"85+ years"	"85+"	3340	23704	14090.4
+"Total"	"Tennessee"	"47"	"Large Central Metro"	"1"			3340	23704	14090.4
+	"Tennessee"	"47"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	2444	16268	15023.4
+"Total"	"Tennessee"	"47"	"Large Fringe Metro"	"2"			2444	16268	15023.4
+	"Tennessee"	"47"	"Medium Metro"	"3"	"85+ years"	"85+"	4607	31812	14482.0
+"Total"	"Tennessee"	"47"	"Medium Metro"	"3"			4607	31812	14482.0
+	"Tennessee"	"47"	"Small Metro"	"4"	"85+ years"	"85+"	1567	10797	14513.3
+"Total"	"Tennessee"	"47"	"Small Metro"	"4"			1567	10797	14513.3
+	"Tennessee"	"47"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2541	15950	15931.0
+"Total"	"Tennessee"	"47"	"Micropolitan (non-metro)"	"5"			2541	15950	15931.0
+	"Tennessee"	"47"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1944	12609	15417.6
+"Total"	"Tennessee"	"47"	"NonCore (non-metro)"	"6"			1944	12609	15417.6
+"Total"	"Tennessee"	"47"					16443	111140	14794.9
+	"Texas"	"48"	"Large Central Metro"	"1"	"85+ years"	"85+"	19029	144589	13160.8
+"Total"	"Texas"	"48"	"Large Central Metro"	"1"			19029	144589	13160.8
+	"Texas"	"48"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	8077	58177	13883.5
+"Total"	"Texas"	"48"	"Large Fringe Metro"	"2"			8077	58177	13883.5
+	"Texas"	"48"	"Medium Metro"	"3"	"85+ years"	"85+"	8502	65781	12924.7
+"Total"	"Texas"	"48"	"Medium Metro"	"3"			8502	65781	12924.7
+	"Texas"	"48"	"Small Metro"	"4"	"85+ years"	"85+"	4196	30538	13740.3
+"Total"	"Texas"	"48"	"Small Metro"	"4"			4196	30538	13740.3
+	"Texas"	"48"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	4298	30576	14056.8
+"Total"	"Texas"	"48"	"Micropolitan (non-metro)"	"5"			4298	30576	14056.8
+	"Texas"	"48"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	4653	31841	14613.2
+"Total"	"Texas"	"48"	"NonCore (non-metro)"	"6"			4653	31841	14613.2
+"Total"	"Texas"	"48"					48755	361502	13486.8
+	"Utah"	"49"	"Large Central Metro"	"1"	"85+ years"	"85+"	2005	12926	15511.4
+"Total"	"Utah"	"49"	"Large Central Metro"	"1"			2005	12926	15511.4
+	"Utah"	"49"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	75	530	14150.9
+"Total"	"Utah"	"49"	"Large Fringe Metro"	"2"			75	530	14150.9
+	"Utah"	"49"	"Medium Metro"	"3"	"85+ years"	"85+"	1905	12487	15255.9
+"Total"	"Utah"	"49"	"Medium Metro"	"3"			1905	12487	15255.9
+	"Utah"	"49"	"Small Metro"	"4"	"85+ years"	"85+"	650	4777	13606.9
+"Total"	"Utah"	"49"	"Small Metro"	"4"			650	4777	13606.9
+	"Utah"	"49"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	301	1748	17219.7
+"Total"	"Utah"	"49"	"Micropolitan (non-metro)"	"5"			301	1748	17219.7
+	"Utah"	"49"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	355	2290	15502.2
+"Total"	"Utah"	"49"	"NonCore (non-metro)"	"6"			355	2290	15502.2
+"Total"	"Utah"	"49"					5291	34758	15222.4
+	"Vermont"	"50"	"Small Metro"	"4"	"85+ years"	"85+"	516	3992	12925.9
+"Total"	"Vermont"	"50"	"Small Metro"	"4"			516	3992	12925.9
+	"Vermont"	"50"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	968	6314	15331.0
+"Total"	"Vermont"	"50"	"Micropolitan (non-metro)"	"5"			968	6314	15331.0
+	"Vermont"	"50"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	572	3801	15048.7
+"Total"	"Vermont"	"50"	"NonCore (non-metro)"	"6"			572	3801	15048.7
+"Total"	"Vermont"	"50"					2056	14107	14574.3
+	"Virginia"	"51"	"Large Central Metro"	"1"	"85+ years"	"85+"	2500	19394	12890.6
+"Total"	"Virginia"	"51"	"Large Central Metro"	"1"			2500	19394	12890.6
+	"Virginia"	"51"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	8599	64218	13390.3
+"Total"	"Virginia"	"51"	"Large Fringe Metro"	"2"			8599	64218	13390.3
+	"Virginia"	"51"	"Medium Metro"	"3"	"85+ years"	"85+"	2210	14965	14767.8
+"Total"	"Virginia"	"51"	"Medium Metro"	"3"			2210	14965	14767.8
+	"Virginia"	"51"	"Small Metro"	"4"	"85+ years"	"85+"	2129	15159	14044.5
+"Total"	"Virginia"	"51"	"Small Metro"	"4"			2129	15159	14044.5
+	"Virginia"	"51"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	958	6449	14855.0
+"Total"	"Virginia"	"51"	"Micropolitan (non-metro)"	"5"			958	6449	14855.0
+	"Virginia"	"51"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	2728	18655	14623.4
+"Total"	"Virginia"	"51"	"NonCore (non-metro)"	"6"			2728	18655	14623.4
+"Total"	"Virginia"	"51"					19124	138840	13774.1
+	"Washington"	"53"	"Large Central Metro"	"1"	"85+ years"	"85+"	4645	37122	12512.8
+"Total"	"Washington"	"53"	"Large Central Metro"	"1"			4645	37122	12512.8
+	"Washington"	"53"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	4463	31867	14005.1
+"Total"	"Washington"	"53"	"Large Fringe Metro"	"2"			4463	31867	14005.1
+	"Washington"	"53"	"Medium Metro"	"3"	"85+ years"	"85+"	3514	24534	14323.0
+"Total"	"Washington"	"53"	"Medium Metro"	"3"			3514	24534	14323.0
+	"Washington"	"53"	"Small Metro"	"4"	"85+ years"	"85+"	2538	18772	13520.1
+"Total"	"Washington"	"53"	"Small Metro"	"4"			2538	18772	13520.1
+	"Washington"	"53"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1666	12334	13507.4
+"Total"	"Washington"	"53"	"Micropolitan (non-metro)"	"5"			1666	12334	13507.4
+	"Washington"	"53"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	493	4059	12145.8
+"Total"	"Washington"	"53"	"NonCore (non-metro)"	"6"			493	4059	12145.8
+"Total"	"Washington"	"53"					17319	128688	13458.1
+	"West Virginia"	"54"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	111	773	14359.6
+"Total"	"West Virginia"	"54"	"Large Fringe Metro"	"2"			111	773	14359.6
+	"West Virginia"	"54"	"Medium Metro"	"3"	"85+ years"	"85+"	916	5589	16389.3
+"Total"	"West Virginia"	"54"	"Medium Metro"	"3"			916	5589	16389.3
+	"West Virginia"	"54"	"Small Metro"	"4"	"85+ years"	"85+"	2496	16591	15044.3
+"Total"	"West Virginia"	"54"	"Small Metro"	"4"			2496	16591	15044.3
+	"West Virginia"	"54"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	1088	7009	15522.9
+"Total"	"West Virginia"	"54"	"Micropolitan (non-metro)"	"5"			1088	7009	15522.9
+	"West Virginia"	"54"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	1372	8773	15638.9
+"Total"	"West Virginia"	"54"	"NonCore (non-metro)"	"6"			1372	8773	15638.9
+"Total"	"West Virginia"	"54"					5983	38735	15446.0
+	"Wisconsin"	"55"	"Large Central Metro"	"1"	"85+ years"	"85+"	2651	19520	13580.9
+"Total"	"Wisconsin"	"55"	"Large Central Metro"	"1"			2651	19520	13580.9
+	"Wisconsin"	"55"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	2888	19896	14515.5
+"Total"	"Wisconsin"	"55"	"Large Fringe Metro"	"2"			2888	19896	14515.5
+	"Wisconsin"	"55"	"Medium Metro"	"3"	"85+ years"	"85+"	2612	18524	14100.6
+"Total"	"Wisconsin"	"55"	"Medium Metro"	"3"			2612	18524	14100.6
+	"Wisconsin"	"55"	"Small Metro"	"4"	"85+ years"	"85+"	4532	30834	14698.1
+"Total"	"Wisconsin"	"55"	"Small Metro"	"4"			4532	30834	14698.1
+	"Wisconsin"	"55"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	2761	19443	14200.5
+"Total"	"Wisconsin"	"55"	"Micropolitan (non-metro)"	"5"			2761	19443	14200.5
+	"Wisconsin"	"55"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	3015	19879	15166.8
+"Total"	"Wisconsin"	"55"	"NonCore (non-metro)"	"6"			3015	19879	15166.8
+"Total"	"Wisconsin"	"55"					18459	128096	14410.3
+	"Wyoming"	"56"	"Small Metro"	"4"	"85+ years"	"85+"	437	3398	12860.5
+"Total"	"Wyoming"	"56"	"Small Metro"	"4"			437	3398	12860.5
+	"Wyoming"	"56"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	445	3214	13845.7
+"Total"	"Wyoming"	"56"	"Micropolitan (non-metro)"	"5"			445	3214	13845.7
+	"Wyoming"	"56"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	445	3435	12954.9
+"Total"	"Wyoming"	"56"	"NonCore (non-metro)"	"6"			445	3435	12954.9
+"Total"	"Wyoming"	"56"					1327	10047	13207.9
+"Total"							826226	6162231	13407.9

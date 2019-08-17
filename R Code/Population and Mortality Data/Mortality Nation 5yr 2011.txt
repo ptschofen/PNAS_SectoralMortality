@@ -1,0 +1,136 @@
+"Notes"	"2013 Urbanization"	"2013 Urbanization Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Large Central Metro"	"1"	"< 1 year"	"1"	7829	1324396	591.1
+	"Large Central Metro"	"1"	"1-4 years"	"1-4"	1246	5082480	24.5
+	"Large Central Metro"	"1"	"5-9 years"	"5-9"	655	6150193	10.7
+	"Large Central Metro"	"1"	"10-14 years"	"10-14"	839	6127429	13.7
+	"Large Central Metro"	"1"	"15-19 years"	"15-19"	3007	6415627	46.9
+	"Large Central Metro"	"1"	"20-24 years"	"20-24"	5648	7138556	79.1
+	"Large Central Metro"	"1"	"25-29 years"	"25-29"	6161	7610920	80.9
+	"Large Central Metro"	"1"	"30-34 years"	"30-34"	6942	7086169	98.0
+	"Large Central Metro"	"1"	"35-39 years"	"35-39"	7944	6487402	122.5
+	"Large Central Metro"	"1"	"40-44 years"	"40-44"	12362	6605608	187.1
+	"Large Central Metro"	"1"	"45-49 years"	"45-49"	20309	6598285	307.8
+	"Large Central Metro"	"1"	"50-54 years"	"50-54"	31417	6516458	482.1
+	"Large Central Metro"	"1"	"55-59 years"	"55-59"	40277	5718245	704.4
+	"Large Central Metro"	"1"	"60-64 years "	"60-64"	48295	4865669	992.6
+	"Large Central Metro"	"1"	"65-69 years"	"65-69"	48756	3377455	1443.6
+	"Large Central Metro"	"1"	"70-74 years"	"70-74"	54547	2506308	2176.4
+	"Large Central Metro"	"1"	"75-79 years"	"75-79"	67627	1944679	3477.5
+	"Large Central Metro"	"1"	"80-84 years"	"80-84"	89788	1554067	5777.6
+	"Large Central Metro"	"1"	"85-89 years"	"85-89"	99404	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"90-94 years"	"90-94"	71197	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"95-99 years"	"95-99"	28846	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"100+ years"	"100+"	6388	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"Not Stated"	"NS"	59	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"< 1 year"	"1"	4983	924827	538.8
+	"Large Fringe Metro"	"2"	"1-4 years"	"1-4"	813	3906798	20.8
+	"Large Fringe Metro"	"2"	"5-9 years"	"5-9"	561	5179769	10.8
+	"Large Fringe Metro"	"2"	"10-14 years"	"10-14"	591	5394279	11.0
+	"Large Fringe Metro"	"2"	"15-19 years"	"15-19"	2226	5331280	41.8
+	"Large Fringe Metro"	"2"	"20-24 years"	"20-24"	4245	4701265	90.3
+	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	4464	4759406	93.8
+	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	4838	4869967	99.3
+	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	5846	4959169	117.9
+	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	9228	5603283	164.7
+	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	15731	5943843	264.7
+	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	24246	5901367	410.9
+	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	31155	5105316	610.2
+	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	38966	4411698	883.2
+	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	42687	3127377	1364.9
+	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	49141	2247596	2186.4
+	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	61092	1712510	3567.4
+	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	82152	1361771	6032.7
+	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	91061	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	65728	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	25586	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"100+ years"	"100+"	5249	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"Not Stated"	"NS"	34	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"< 1 year"	"1"	5210	839679	620.5
+	"Medium Metro"	"3"	"1-4 years"	"1-4"	936	3418535	27.4
+	"Medium Metro"	"3"	"5-9 years"	"5-9"	517	4297683	12.0
+	"Medium Metro"	"3"	"10-14 years"	"10-14"	636	4358441	14.6
+	"Medium Metro"	"3"	"15-19 years"	"15-19"	2309	4644830	49.7
+	"Medium Metro"	"3"	"20-24 years"	"20-24"	4078	4867607	83.8
+	"Medium Metro"	"3"	"25-29 years"	"25-29"	4478	4345621	103.0
+	"Medium Metro"	"3"	"30-34 years"	"30-34"	4990	4126753	120.9
+	"Medium Metro"	"3"	"35-39 years"	"35-39"	5975	3910879	152.8
+	"Medium Metro"	"3"	"40-44 years"	"40-44"	9026	4207945	214.5
+	"Medium Metro"	"3"	"45-49 years"	"45-49"	15137	4477470	338.1
+	"Medium Metro"	"3"	"50-54 years"	"50-54"	23850	4628811	515.3
+	"Medium Metro"	"3"	"55-59 years"	"55-59"	30881	4221173	731.6
+	"Medium Metro"	"3"	"60-64 years "	"60-64"	38236	3770377	1014.1
+	"Medium Metro"	"3"	"65-69 years"	"65-69"	41593	2755447	1509.5
+	"Medium Metro"	"3"	"70-74 years"	"70-74"	46933	2054059	2284.9
+	"Medium Metro"	"3"	"75-79 years"	"75-79"	58331	1596606	3653.4
+	"Medium Metro"	"3"	"80-84 years"	"80-84"	76288	1248483	6110.5
+	"Medium Metro"	"3"	"85-89 years"	"85-89"	83324	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"90-94 years"	"90-94"	58865	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"95-99 years"	"95-99"	22957	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"100+ years"	"100+"	4640	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"Not Stated"	"NS"	24	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"< 1 year"	"1"	2279	359512	633.9
+	"Small Metro"	"4"	"1-4 years"	"1-4"	401	1463716	27.4
+	"Small Metro"	"4"	"5-9 years"	"5-9"	252	1810937	13.9
+	"Small Metro"	"4"	"10-14 years"	"10-14"	298	1827722	16.3
+	"Small Metro"	"4"	"15-19 years"	"15-19"	1042	2076597	50.2
+	"Small Metro"	"4"	"20-24 years"	"20-24"	1866	2423914	77.0
+	"Small Metro"	"4"	"25-29 years"	"25-29"	1992	1883124	105.8
+	"Small Metro"	"4"	"30-34 years"	"30-34"	2233	1764417	126.6
+	"Small Metro"	"4"	"35-39 years"	"35-39"	2603	1637194	159.0
+	"Small Metro"	"4"	"40-44 years"	"40-44"	4193	1760592	238.2
+	"Small Metro"	"4"	"45-49 years"	"45-49"	7031	1923256	365.6
+	"Small Metro"	"4"	"50-54 years"	"50-54"	10973	2034053	539.5
+	"Small Metro"	"4"	"55-59 years"	"55-59"	14581	1900960	767.0
+	"Small Metro"	"4"	"60-64 years "	"60-64"	18441	1722106	1070.8
+	"Small Metro"	"4"	"65-69 years"	"65-69"	20415	1282095	1592.3
+	"Small Metro"	"4"	"70-74 years"	"70-74"	23835	986726	2415.6
+	"Small Metro"	"4"	"75-79 years"	"75-79"	29269	761419	3844.0
+	"Small Metro"	"4"	"80-84 years"	"80-84"	37465	586337	6389.7
+	"Small Metro"	"4"	"85-89 years"	"85-89"	39161	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"90-94 years"	"90-94"	27747	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"95-99 years"	"95-99"	11164	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"100+ years"	"100+"	2186	Not Applicable	Not Applicable
+	"Micropolitan (non-metro)"	"5"	"< 1 year"	"1"	2136	331289	644.8
+	"Micropolitan (non-metro)"	"5"	"1-4 years"	"1-4"	510	1369206	37.2
+	"Micropolitan (non-metro)"	"5"	"5-9 years"	"5-9"	245	1716560	14.3
+	"Micropolitan (non-metro)"	"5"	"10-14 years"	"10-14"	306	1763050	17.4
+	"Micropolitan (non-metro)"	"5"	"15-19 years"	"15-19"	1098	1922251	57.1
+	"Micropolitan (non-metro)"	"5"	"20-24 years"	"20-24"	1867	1953500	95.6
+	"Micropolitan (non-metro)"	"5"	"25-29 years"	"25-29"	1998	1637035	122.0
+	"Micropolitan (non-metro)"	"5"	"30-34 years"	"30-34"	2387	1598316	149.3
+	"Micropolitan (non-metro)"	"5"	"35-39 years"	"35-39"	2851	1544813	184.6
+	"Micropolitan (non-metro)"	"5"	"40-44 years"	"40-44"	4322	1687529	256.1
+	"Micropolitan (non-metro)"	"5"	"45-49 years"	"45-49"	7577	1868914	405.4
+	"Micropolitan (non-metro)"	"5"	"50-54 years"	"50-54"	11848	2010356	589.3
+	"Micropolitan (non-metro)"	"5"	"55-59 years"	"55-59"	15318	1898779	806.7
+	"Micropolitan (non-metro)"	"5"	"60-64 years "	"60-64"	19555	1723161	1134.8
+	"Micropolitan (non-metro)"	"5"	"65-69 years"	"65-69"	21922	1294584	1693.4
+	"Micropolitan (non-metro)"	"5"	"70-74 years"	"70-74"	25817	997212	2588.9
+	"Micropolitan (non-metro)"	"5"	"75-79 years"	"75-79"	31012	757699	4092.9
+	"Micropolitan (non-metro)"	"5"	"80-84 years"	"80-84"	38265	579533	6602.7
+	"Micropolitan (non-metro)"	"5"	"85-89 years"	"85-89"	40150	Not Applicable	Not Applicable
+	"Micropolitan (non-metro)"	"5"	"90-94 years"	"90-94"	28609	Not Applicable	Not Applicable
+	"Micropolitan (non-metro)"	"5"	"95-99 years"	"95-99"	11654	Not Applicable	Not Applicable
+	"Micropolitan (non-metro)"	"5"	"100+ years"	"100+"	2413	Not Applicable	Not Applicable
+	"NonCore (non-metro)"	"6"	"< 1 year"	"1"	1548	216834	713.9
+	"NonCore (non-metro)"	"6"	"1-4 years"	"1-4"	340	924786	36.8
+	"NonCore (non-metro)"	"6"	"5-9 years"	"5-9"	221	1179054	18.7
+	"NonCore (non-metro)"	"6"	"10-14 years"	"10-14"	280	1233931	22.7
+	"NonCore (non-metro)"	"6"	"15-19 years"	"15-19"	912	1253458	72.8
+	"NonCore (non-metro)"	"6"	"20-24 years"	"20-24"	1369	1068990	128.1
+	"NonCore (non-metro)"	"6"	"25-29 years"	"25-29"	1479	1043688	141.7
+	"NonCore (non-metro)"	"6"	"30-34 years"	"30-34"	1786	1065082	167.7
+	"NonCore (non-metro)"	"6"	"35-39 years"	"35-39"	2259	1054852	214.2
+	"NonCore (non-metro)"	"6"	"40-44 years"	"40-44"	3284	1168688	281.0
+	"NonCore (non-metro)"	"6"	"45-49 years"	"45-49"	5889	1346237	437.4
+	"NonCore (non-metro)"	"6"	"50-54 years"	"50-54"	9239	1469153	628.9
+	"NonCore (non-metro)"	"6"	"55-59 years"	"55-59"	12060	1411075	854.7
+	"NonCore (non-metro)"	"6"	"60-64 years "	"60-64"	15550	1313581	1183.8
+	"NonCore (non-metro)"	"6"	"65-69 years"	"65-69"	18102	1036830	1745.9
+	"NonCore (non-metro)"	"6"	"70-74 years"	"70-74"	21304	816049	2610.6
+	"NonCore (non-metro)"	"6"	"75-79 years"	"75-79"	24945	615774	4051.0
+	"NonCore (non-metro)"	"6"	"80-84 years"	"80-84"	29991	456352	6571.9
+	"NonCore (non-metro)"	"6"	"85-89 years"	"85-89"	30812	Not Applicable	Not Applicable
+	"NonCore (non-metro)"	"6"	"90-94 years"	"90-94"	22067	Not Applicable	Not Applicable
+	"NonCore (non-metro)"	"6"	"95-99 years"	"95-99"	9403	Not Applicable	Not Applicable
+	"NonCore (non-metro)"	"6"	"100+ years"	"100+"	1934	Not Applicable	Not Applicable

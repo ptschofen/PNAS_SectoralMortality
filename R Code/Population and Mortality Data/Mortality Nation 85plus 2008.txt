@@ -1,0 +1,14 @@
+"Notes"	"2013 Urbanization"	"2013 Urbanization Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Large Central Metro"	"1"	"85+ years"	"85+"	193398	1429292	13531.0
+"Total"	"Large Central Metro"	"1"			193398	1429292	13531.0
+	"Large Fringe Metro"	"2"	"85+ years"	"85+"	172796	1220375	14159.3
+"Total"	"Large Fringe Metro"	"2"			172796	1220375	14159.3
+	"Medium Metro"	"3"	"85+ years"	"85+"	157908	1100433	14349.6
+"Total"	"Medium Metro"	"3"			157908	1100433	14349.6
+	"Small Metro"	"4"	"85+ years"	"85+"	75474	510154	14794.4
+"Total"	"Small Metro"	"4"			75474	510154	14794.4
+	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	80326	522617	15370.0
+"Total"	"Micropolitan (non-metro)"	"5"			80326	522617	15370.0
+	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	64789	412969	15688.6
+"Total"	"NonCore (non-metro)"	"6"			64789	412969	15688.6
+"Total"					744691	5195840	14332.4

@@ -1,0 +1,54 @@
+"Notes"	"Census Region"	"Census Region Code"	"2013 Urbanization"	"2013 Urbanization Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"85+ years"	"85+"	43934	353690	12421.6
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"			43934	353690	12421.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	65846	491120	13407.3
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"			65846	491120	13407.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"85+ years"	"85+"	36412	263153	13836.8
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"			36412	263153	13836.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"85+ years"	"85+"	11152	79508	14026.3
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"			11152	79508	14026.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	11859	81372	14573.8
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"			11859	81372	14573.8
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	5187	35519	14603.5
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"			5187	35519	14603.5
+"Total"	"Census Region 1: Northeast"	"CENS-R1"					174390	1304362	13369.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"85+ years"	"85+"	41277	304933	13536.4
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"			41277	304933	13536.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	45353	319754	14183.7
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"			45353	319754	14183.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"85+ years"	"85+"	33644	232740	14455.6
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"			33644	232740	14455.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"85+ years"	"85+"	25915	183246	14142.2
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"			25915	183246	14142.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	31037	215226	14420.7
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"			31037	215226	14420.7
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	26025	181300	14354.7
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"			26025	181300	14354.7
+"Total"	"Census Region 2: Midwest"	"CENS-R2"					203251	1437199	14142.2
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"85+ years"	"85+"	57229	443318	12909.2
+"Total"	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"			57229	443318	12909.2
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	65710	507698	12942.7
+"Total"	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"			65710	507698	12942.7
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"85+ years"	"85+"	72766	543223	13395.2
+"Total"	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"			72766	543223	13395.2
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"85+ years"	"85+"	30629	217532	14080.2
+"Total"	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"			30629	217532	14080.2
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	29277	200486	14603.0
+"Total"	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"			29277	200486	14603.0
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	28031	189038	14828.2
+"Total"	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"			28031	189038	14828.2
+"Total"	"Census Region 3: South"	"CENS-R3"					283642	2101295	13498.4
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"85+ years"	"85+"	72292	608042	11889.3
+"Total"	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"			72292	608042	11889.3
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"85+ years"	"85+"	22385	175813	12732.3
+"Total"	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"			22385	175813	12732.3
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"85+ years"	"85+"	36709	282107	13012.4
+"Total"	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"			36709	282107	13012.4
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"85+ years"	"85+"	15985	122207	13080.3
+"Total"	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"			15985	122207	13080.3
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"85+ years"	"85+"	11859	87844	13500.1
+"Total"	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"			11859	87844	13500.1
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"85+ years"	"85+"	5713	43362	13175.1
+"Total"	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"			5713	43362	13175.1
+"Total"	"Census Region 4: West"	"CENS-R4"					164943	1319375	12501.6
+"Total"							826226	6162231	13407.9

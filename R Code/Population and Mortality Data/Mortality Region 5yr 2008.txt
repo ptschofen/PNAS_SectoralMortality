@@ -1,0 +1,534 @@
+"Notes"	"Census Region"	"Census Region Code"	"2013 Urbanization"	"2013 Urbanization Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"< 1 year"	"1"	1497	221069	677.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"1-4 years"	"1-4"	205	810429	25.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"5-9 years"	"5-9"	113	959619	11.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"10-14 years"	"10-14"	155	1011645	15.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"15-19 years"	"15-19"	533	1170672	45.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"20-24 years"	"20-24"	920	1281541	71.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"25-29 years"	"25-29"	1106	1380476	80.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"30-34 years"	"30-34"	1170	1199547	97.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"35-39 years"	"35-39"	1580	1170297	135.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"40-44 years"	"40-44"	2576	1171592	219.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"45-49 years"	"45-49"	4088	1193891	342.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"50-54 years"	"50-54"	5738	1130559	507.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"55-59 years"	"55-59"	7250	985564	735.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"60-64 years "	"60-64"	8293	790561	1049.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"65-69 years"	"65-69"	9166	596439	1536.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"70-74 years"	"70-74"	10976	471994	2325.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"75-79 years"	"75-79"	14597	401432	3636.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"80-84 years"	"80-84"	19301	331391	5824.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"85-89 years"	"85-89"	19933	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"90-94 years"	"90-94"	14030	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"95-99 years"	"95-99"	6085	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"100+ years"	"100+"	1385	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Central Metro"	"1"	"Not Stated"	"NS"	12	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"< 1 year"	"1"	1131	227184	497.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"1-4 years"	"1-4"	165	944113	17.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"5-9 years"	"5-9"	103	1268441	8.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"10-14 years"	"10-14"	137	1365778	10.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"15-19 years"	"15-19"	525	1412627	37.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"20-24 years"	"20-24"	931	1175972	79.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	888	1125387	78.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	873	1124638	77.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	1403	1353135	103.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	2380	1547058	153.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	4144	1657216	250.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	5711	1533598	372.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	7347	1297045	566.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	9135	1061053	860.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	10479	782610	1339.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	13242	602359	2198.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	19853	536695	3699.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	27044	441466	6126.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	28806	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	20268	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	7931	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Large Fringe Metro"	"2"	"100+ years"	"100+"	1674	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"< 1 year"	"1"	827	124393	664.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"1-4 years"	"1-4"	125	499864	25.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"5-9 years"	"5-9"	71	655588	10.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"10-14 years"	"10-14"	84	709558	11.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"15-19 years"	"15-19"	304	792111	38.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"20-24 years"	"20-24"	546	700516	77.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"25-29 years"	"25-29"	544	629062	86.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"30-34 years"	"30-34"	538	597386	90.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"35-39 years"	"35-39"	906	705186	128.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"40-44 years"	"40-44"	1418	785940	180.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"45-49 years"	"45-49"	2462	849978	289.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"50-54 years"	"50-54"	3430	804344	426.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"55-59 years"	"55-59"	4288	692104	619.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"60-64 years "	"60-64"	5257	561424	936.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"65-69 years"	"65-69"	6131	413283	1483.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"70-74 years"	"70-74"	7506	319019	2352.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"75-79 years"	"75-79"	10841	284220	3814.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"80-84 years"	"80-84"	15311	241856	6330.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"85-89 years"	"85-89"	16456	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"90-94 years"	"90-94"	11698	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"95-99 years"	"95-99"	4438	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Medium Metro"	"3"	"100+ years"	"100+"	953	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"< 1 year"	"1"	220	34777	632.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"1-4 years"	"1-4"	34	135476	25.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"5-9 years"	"5-9"	13	173919	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"10-14 years"	"10-14"	27	189413	14.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"15-19 years"	"15-19"	107	240264	44.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"20-24 years"	"20-24"	156	244723	63.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"25-29 years"	"25-29"	179	180569	99.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"30-34 years"	"30-34"	157	165468	94.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"35-39 years"	"35-39"	257	191596	134.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"40-44 years"	"40-44"	437	214943	203.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"45-49 years"	"45-49"	728	239815	303.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"50-54 years"	"50-54"	1022	235491	434.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"55-59 years"	"55-59"	1315	209758	626.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"60-64 years "	"60-64"	1687	176289	957.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"65-69 years"	"65-69"	2047	135610	1509.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"70-74 years"	"70-74"	2579	106922	2412.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"75-79 years"	"75-79"	3578	93085	3843.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"80-84 years"	"80-84"	4799	75854	6326.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"85-89 years"	"85-89"	5108	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"90-94 years"	"90-94"	3345	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"95-99 years"	"95-99"	1391	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Small Metro"	"4"	"100+ years"	"100+"	278	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"< 1 year"	"1"	207	34540	599.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"1-4 years"	"1-4"	39	135967	28.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"5-9 years"	"5-9"	20	182649	10.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"10-14 years"	"10-14"	32	199277	16.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"15-19 years"	"15-19"	100	238111	42.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"20-24 years"	"20-24"	182	209981	86.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"25-29 years"	"25-29"	164	172948	94.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"30-34 years"	"30-34"	179	166375	107.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"35-39 years"	"35-39"	238	201152	118.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"40-44 years"	"40-44"	479	226936	211.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"45-49 years"	"45-49"	722	256226	281.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"50-54 years"	"50-54"	1117	257172	434.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"55-59 years"	"55-59"	1472	230760	637.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"60-64 years "	"60-64"	1954	191139	1022.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"65-69 years"	"65-69"	2263	145623	1554.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"70-74 years"	"70-74"	2883	112112	2571.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"75-79 years"	"75-79"	3980	97075	4099.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"80-84 years"	"80-84"	5349	79230	6751.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"85-89 years"	"85-89"	5513	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"90-94 years"	"90-94"	3763	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"95-99 years"	"95-99"	1508	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Micropolitan (non-metro)"	"5"	"100+ years"	"100+"	297	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"< 1 year"	"1"	80	15658	510.9
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"1-4 years"	"1-4"	19	61317	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"10-14 years"	"10-14"	18	92101	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"15-19 years"	"15-19"	69	106043	65.1
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"20-24 years"	"20-24"	99	84745	116.8
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"25-29 years"	"25-29"	87	74149	117.3
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"30-34 years"	"30-34"	97	75039	129.3
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"35-39 years"	"35-39"	130	90911	143.0
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"40-44 years"	"40-44"	199	103069	193.1
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"45-49 years"	"45-49"	337	119941	281.0
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"50-54 years"	"50-54"	557	121331	459.1
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"55-59 years"	"55-59"	698	111869	623.9
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"60-64 years "	"60-64"	957	96168	995.1
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"65-69 years"	"65-69"	1238	75197	1646.3
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"70-74 years"	"70-74"	1448	57941	2499.1
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"75-79 years"	"75-79"	1944	47002	4136.0
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"80-84 years"	"80-84"	2404	36265	6629.0
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"85-89 years"	"85-89"	2425	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"90-94 years"	"90-94"	1666	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"95-99 years"	"95-99"	686	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"NonCore (non-metro)"	"6"	"100+ years"	"100+"	137	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"< 1 year"	"1"	1994	211662	942.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"1-4 years"	"1-4"	252	824735	30.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"5-9 years"	"5-9"	132	990676	13.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"10-14 years"	"10-14"	181	1032042	17.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"15-19 years"	"15-19"	724	1109926	65.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"20-24 years"	"20-24"	1084	1104070	98.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"25-29 years"	"25-29"	1229	1231403	99.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"30-34 years"	"30-34"	1269	1049761	120.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"35-39 years"	"35-39"	1693	1053426	160.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"40-44 years"	"40-44"	2690	1039234	258.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"45-49 years"	"45-49"	4583	1120219	409.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"50-54 years"	"50-54"	6491	1082396	599.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"55-59 years"	"55-59"	7843	923605	849.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"60-64 years "	"60-64"	8511	697542	1220.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"65-69 years"	"65-69"	9285	515267	1802.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"70-74 years"	"70-74"	10802	402613	2683.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"75-79 years"	"75-79"	14651	351768	4165.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"80-84 years"	"80-84"	19108	292292	6537.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"85-89 years"	"85-89"	19200	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"90-94 years"	"90-94"	13142	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"95-99 years"	"95-99"	5041	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Central Metro"	"1"	"100+ years"	"100+"	1160	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"< 1 year"	"1"	1333	214412	621.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"1-4 years"	"1-4"	195	904375	21.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"5-9 years"	"5-9"	131	1202339	10.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"10-14 years"	"10-14"	137	1247994	11.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"15-19 years"	"15-19"	629	1208424	52.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"20-24 years"	"20-24"	906	954586	94.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	914	1030261	88.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	1000	1034821	96.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	1377	1198821	114.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	2120	1271769	166.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	3625	1371382	264.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	5113	1260865	405.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	6398	1052501	607.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	7818	823880	948.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	9085	604108	1503.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	10905	441198	2471.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	14746	364786	4042.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	18828	287695	6544.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	19265	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	13454	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	5081	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Large Fringe Metro"	"2"	"100+ years"	"100+"	1035	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"< 1 year"	"1"	989	144012	686.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"1-4 years"	"1-4"	172	569533	30.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"5-9 years"	"5-9"	77	719514	10.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"10-14 years"	"10-14"	108	732673	14.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"15-19 years"	"15-19"	370	810495	45.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"20-24 years"	"20-24"	599	815028	73.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"25-29 years"	"25-29"	684	735286	93.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"30-34 years"	"30-34"	679	661533	102.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"35-39 years"	"35-39"	970	706599	137.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"40-44 years"	"40-44"	1559	725710	214.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"45-49 years"	"45-49"	2790	811982	343.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"50-54 years"	"50-54"	4001	799793	500.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"55-59 years"	"55-59"	4953	701510	706.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"60-64 years "	"60-64"	5907	548249	1077.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"65-69 years"	"65-69"	6504	404845	1606.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"70-74 years"	"70-74"	8127	314116	2587.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"75-79 years"	"75-79"	11174	269483	4146.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"80-84 years"	"80-84"	14489	219114	6612.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"85-89 years"	"85-89"	14807	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"90-94 years"	"90-94"	10311	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"95-99 years"	"95-99"	3935	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Medium Metro"	"3"	"100+ years"	"100+"	891	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"< 1 year"	"1"	751	109054	688.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"1-4 years"	"1-4"	126	428575	29.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"5-9 years"	"5-9"	61	530897	11.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"10-14 years"	"10-14"	80	540594	14.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"15-19 years"	"15-19"	299	653665	45.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"20-24 years"	"20-24"	484	742300	65.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"25-29 years"	"25-29"	477	560726	85.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"30-34 years"	"30-34"	528	497591	106.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"35-39 years"	"35-39"	718	517978	138.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"40-44 years"	"40-44"	1148	542584	211.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"45-49 years"	"45-49"	1938	608377	318.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"50-54 years"	"50-54"	2768	595160	465.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"55-59 years"	"55-59"	3627	524842	691.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"60-64 years "	"60-64"	4173	409680	1018.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"65-69 years"	"65-69"	5014	311718	1608.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"70-74 years"	"70-74"	6153	244099	2520.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"75-79 years"	"75-79"	8306	207523	4002.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"80-84 years"	"80-84"	11160	168766	6612.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"85-89 years"	"85-89"	11480	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"90-94 years"	"90-94"	8189	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"95-99 years"	"95-99"	3296	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Small Metro"	"4"	"100+ years"	"100+"	678	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"< 1 year"	"1"	703	114727	612.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"1-4 years"	"1-4"	185	446969	41.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"5-9 years"	"5-9"	68	565095	12.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"10-14 years"	"10-14"	107	589663	18.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"15-19 years"	"15-19"	359	671326	53.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"20-24 years"	"20-24"	495	630234	78.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"25-29 years"	"25-29"	555	524774	105.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"30-34 years"	"30-34"	547	490405	111.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"35-39 years"	"35-39"	792	536148	147.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"40-44 years"	"40-44"	1327	578069	229.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"45-49 years"	"45-49"	2249	667819	336.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"50-54 years"	"50-54"	3262	659424	494.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"55-59 years"	"55-59"	4105	583032	704.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"60-64 years "	"60-64"	5197	476086	1091.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"65-69 years"	"65-69"	6518	382458	1704.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"70-74 years"	"70-74"	7976	302512	2636.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"75-79 years"	"75-79"	10565	253485	4167.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"80-84 years"	"80-84"	13630	203095	6711.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"85-89 years"	"85-89"	14182	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"90-94 years"	"90-94"	10376	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"95-99 years"	"95-99"	4355	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Micropolitan (non-metro)"	"5"	"100+ years"	"100+"	846	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"< 1 year"	"1"	491	79638	616.5
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"1-4 years"	"1-4"	103	309036	33.3
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"5-9 years"	"5-9"	72	399729	18.0
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"10-14 years"	"10-14"	87	426751	20.4
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"15-19 years"	"15-19"	308	443722	69.4
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"20-24 years"	"20-24"	402	326955	123.0
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"25-29 years"	"25-29"	379	327116	115.9
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"30-34 years"	"30-34"	432	323504	133.5
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"35-39 years"	"35-39"	557	360381	154.6
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"40-44 years"	"40-44"	932	404969	230.1
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"45-49 years"	"45-49"	1663	490454	339.1
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"50-54 years"	"50-54"	2441	493460	494.7
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"55-59 years"	"55-59"	3039	444452	683.8
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"60-64 years "	"60-64"	4278	380086	1125.5
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"65-69 years"	"65-69"	5315	323648	1642.2
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"70-74 years"	"70-74"	6589	265073	2485.7
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"75-79 years"	"75-79"	8468	221148	3829.1
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"80-84 years"	"80-84"	11151	174293	6397.8
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"85-89 years"	"85-89"	12269	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"90-94 years"	"90-94"	9089	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"95-99 years"	"95-99"	4085	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"NonCore (non-metro)"	"6"	"100+ years"	"100+"	983	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"< 1 year"	"1"	3211	403712	795.4
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"1-4 years"	"1-4"	520	1557887	33.4
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"5-9 years"	"5-9"	250	1822423	13.7
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"10-14 years"	"10-14"	283	1821012	15.5
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"15-19 years"	"15-19"	1253	1909532	65.6
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"20-24 years"	"20-24"	2148	2025842	106.0
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"25-29 years"	"25-29"	2293	2195415	104.4
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"30-34 years"	"30-34"	2351	1970085	119.3
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"35-39 years"	"35-39"	3143	2007737	156.5
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"40-44 years"	"40-44"	4572	1934093	236.4
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"45-49 years"	"45-49"	7448	1972057	377.7
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"50-54 years"	"50-54"	10251	1795265	571.0
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"55-59 years"	"55-59"	12028	1511998	795.5
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"60-64 years "	"60-64"	13381	1177251	1136.6
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"65-69 years"	"65-69"	13926	843732	1650.5
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"70-74 years"	"70-74"	15851	635680	2493.6
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"75-79 years"	"75-79"	20574	521268	3946.9
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"80-84 years"	"80-84"	25738	397535	6474.4
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"85-89 years"	"85-89"	25498	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"90-94 years"	"90-94"	16211	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"95-99 years"	"95-99"	6519	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"100+ years"	"100+"	1460	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Central Metro"	"1"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"< 1 year"	"1"	2574	385524	667.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"1-4 years"	"1-4"	465	1540422	30.2
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"5-9 years"	"5-9"	209	1946020	10.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"10-14 years"	"10-14"	276	2012128	13.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"15-19 years"	"15-19"	1176	2003039	58.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"20-24 years"	"20-24"	1851	1714101	108.0
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	1934	1830505	105.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	2059	1818204	113.2
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	2740	2097090	130.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	4313	2166550	199.1
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	6951	2237845	310.6
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	9501	2018628	470.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	11490	1707131	673.1
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	13874	1401118	990.2
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	15867	1030123	1540.3
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	17941	753381	2381.4
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	23222	602595	3853.7
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	28737	454923	6316.9
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	28899	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	18690	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	7244	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"100+ years"	"100+"	1442	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Large Fringe Metro"	"2"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"< 1 year"	"1"	2861	370491	772.2
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"1-4 years"	"1-4"	467	1417535	32.9
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"5-9 years"	"5-9"	239	1741828	13.7
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"10-14 years"	"10-14"	282	1770509	15.9
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"15-19 years"	"15-19"	1262	1929538	65.4
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"20-24 years"	"20-24"	2131	1918829	111.1
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"25-29 years"	"25-29"	2222	1787348	124.3
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"30-34 years"	"30-34"	2190	1622014	135.0
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"35-39 years"	"35-39"	3065	1739699	176.2
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"40-44 years"	"40-44"	4848	1767220	274.3
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"45-49 years"	"45-49"	7778	1902933	408.7
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"50-54 years"	"50-54"	11027	1826233	603.8
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"55-59 years"	"55-59"	13436	1633280	822.6
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"60-64 years "	"60-64"	16276	1415437	1149.9
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"65-69 years"	"65-69"	18548	1130038	1641.4
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"70-74 years"	"70-74"	22082	887274	2488.7
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"75-79 years"	"75-79"	28240	711686	3968.0
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"80-84 years"	"80-84"	33876	524421	6459.7
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"85-89 years"	"85-89"	32705	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"90-94 years"	"90-94"	20406	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"95-99 years"	"95-99"	7881	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"100+ years"	"100+"	1664	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Medium Metro"	"3"	"Not Stated"	"NS"	14	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"< 1 year"	"1"	1278	151140	845.6
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"1-4 years"	"1-4"	200	570055	35.1
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"5-9 years"	"5-9"	125	694757	18.0
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"10-14 years"	"10-14"	126	702050	17.9
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"15-19 years"	"15-19"	503	828698	60.7
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"20-24 years"	"20-24"	864	900479	95.9
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"25-29 years"	"25-29"	909	732723	124.1
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"30-34 years"	"30-34"	867	642596	134.9
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"35-39 years"	"35-39"	1269	689550	184.0
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"40-44 years"	"40-44"	1979	709698	278.9
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"45-49 years"	"45-49"	3491	777298	449.1
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"50-54 years"	"50-54"	4754	756178	628.7
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"55-59 years"	"55-59"	5986	679858	880.5
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"60-64 years "	"60-64"	7297	593395	1229.7
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"65-69 years"	"65-69"	8367	476533	1755.8
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"70-74 years"	"70-74"	10177	381008	2671.1
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"75-79 years"	"75-79"	12700	300481	4226.6
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"80-84 years"	"80-84"	15176	218288	6952.3
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"85-89 years"	"85-89"	14461	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"90-94 years"	"90-94"	8830	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"95-99 years"	"95-99"	3409	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Small Metro"	"4"	"100+ years"	"100+"	706	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"< 1 year"	"1"	1202	144844	829.9
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"1-4 years"	"1-4"	224	549883	40.7
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"5-9 years"	"5-9"	114	676559	16.8
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"10-14 years"	"10-14"	159	694444	22.9
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"15-19 years"	"15-19"	551	777562	70.9
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"20-24 years"	"20-24"	861	734544	117.2
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"25-29 years"	"25-29"	967	648703	149.1
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"30-34 years"	"30-34"	1059	605657	174.9
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"35-39 years"	"35-39"	1435	661072	217.1
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"40-44 years"	"40-44"	2210	684917	322.7
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"45-49 years"	"45-49"	3705	745179	497.2
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"50-54 years"	"50-54"	5198	737795	704.5
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"55-59 years"	"55-59"	6432	672827	956.0
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"60-64 years "	"60-64"	8001	587754	1361.3
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"65-69 years"	"65-69"	9538	473506	2014.3
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"70-74 years"	"70-74"	10992	369224	2977.1
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"75-79 years"	"75-79"	13295	288527	4607.9
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"80-84 years"	"80-84"	15382	210892	7293.8
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"85-89 years"	"85-89"	14625	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"90-94 years"	"90-94"	9423	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"95-99 years"	"95-99"	3835	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Micropolitan (non-metro)"	"5"	"100+ years"	"100+"	715	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"< 1 year"	"1"	968	122511	790.1
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"1-4 years"	"1-4"	207	459542	45.0
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"5-9 years"	"5-9"	108	579097	18.6
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"10-14 years"	"10-14"	138	604530	22.8
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"15-19 years"	"15-19"	614	644043	95.3
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"20-24 years"	"20-24"	818	530096	154.3
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"25-29 years"	"25-29"	871	540648	161.1
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"30-34 years"	"30-34"	949	520318	182.4
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"35-39 years"	"35-39"	1348	576396	233.9
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"40-44 years"	"40-44"	2090	616472	339.0
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"45-49 years"	"45-49"	3409	679948	501.4
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"50-54 years"	"50-54"	4982	680293	732.3
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"55-59 years"	"55-59"	6175	633564	974.6
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"60-64 years "	"60-64"	7977	571115	1396.7
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"65-69 years"	"65-69"	9431	469245	2009.8
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"70-74 years"	"70-74"	10930	370378	2951.0
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"75-79 years"	"75-79"	13149	282038	4662.1
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"80-84 years"	"80-84"	15086	202430	7452.5
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"85-89 years"	"85-89"	14080	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"90-94 years"	"90-94"	9467	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"95-99 years"	"95-99"	3663	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"NonCore (non-metro)"	"6"	"100+ years"	"100+"	779	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"< 1 year"	"1"	2601	477740	544.4
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"1-4 years"	"1-4"	419	1843029	22.7
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"5-9 years"	"5-9"	259	2165064	12.0
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"10-14 years"	"10-14"	324	2291264	14.1
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"15-19 years"	"15-19"	1121	2406614	46.6
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"20-24 years"	"20-24"	1810	2408516	75.2
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"25-29 years"	"25-29"	1940	2644876	73.3
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"30-34 years"	"30-34"	2011	2406606	83.6
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"35-39 years"	"35-39"	2858	2509053	113.9
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"40-44 years"	"40-44"	4095	2404688	170.3
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"45-49 years"	"45-49"	6717	2396923	280.2
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"50-54 years"	"50-54"	9552	2192489	435.7
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"55-59 years"	"55-59"	11483	1853912	619.4
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"60-64 years "	"60-64"	13474	1471359	915.8
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"65-69 years"	"65-69"	14438	1074420	1343.8
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"70-74 years"	"70-74"	17245	828436	2081.6
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"75-79 years"	"75-79"	22996	677323	3395.1
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"80-84 years"	"80-84"	30441	532787	5713.5
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"85-89 years"	"85-89"	32061	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"90-94 years"	"90-94"	21382	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"95-99 years"	"95-99"	8535	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"100+ years"	"100+"	1756	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Central Metro"	"1"	"Not Stated"	"NS"	29	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"< 1 year"	"1"	712	142152	500.9
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"1-4 years"	"1-4"	134	566549	23.7
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"5-9 years"	"5-9"	69	703593	9.8
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"10-14 years"	"10-14"	86	732790	11.7
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"15-19 years"	"15-19"	349	733872	47.6
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"20-24 years"	"20-24"	558	637425	87.5
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	537	676223	79.4
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	592	659570	89.8
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	773	724924	106.6
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	1226	730161	167.9
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	2036	772746	263.5
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	2917	721268	404.4
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	3745	614919	609.0
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	4340	483979	896.7
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	4687	338435	1384.9
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	5423	244888	2214.5
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	6912	193401	3573.9
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	9157	149715	6116.3
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	9667	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	6339	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	2504	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Large Fringe Metro"	"2"	"100+ years"	"100+"	497	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"< 1 year"	"1"	1397	232511	600.8
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"1-4 years"	"1-4"	250	909082	27.5
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"5-9 years"	"5-9"	144	1078562	13.4
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"10-14 years"	"10-14"	155	1115377	13.9
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"15-19 years"	"15-19"	604	1212377	49.8
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"20-24 years"	"20-24"	988	1195308	82.7
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"25-29 years"	"25-29"	966	1102859	87.6
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"30-34 years"	"30-34"	994	978337	101.6
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"35-39 years"	"35-39"	1378	1004257	137.2
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"40-44 years"	"40-44"	2033	1001254	203.0
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"45-49 years"	"45-49"	3409	1079736	315.7
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"50-54 years"	"50-54"	4789	1035838	462.3
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"55-59 years"	"55-59"	5864	905755	647.4
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"60-64 years "	"60-64"	6819	721624	945.0
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"65-69 years"	"65-69"	7437	517640	1436.7
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"70-74 years"	"70-74"	8546	387081	2207.8
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"75-79 years"	"75-79"	11573	317104	3649.6
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"80-84 years"	"80-84"	15011	249035	6027.7
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"85-89 years"	"85-89"	15802	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"90-94 years"	"90-94"	10812	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"95-99 years"	"95-99"	4344	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"100+ years"	"100+"	805	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Medium Metro"	"3"	"Not Stated"	"NS"	12	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"< 1 year"	"1"	457	82407	554.6
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"1-4 years"	"1-4"	88	317255	27.7
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"5-9 years"	"5-9"	55	380422	14.5
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"10-14 years"	"10-14"	69	393560	17.5
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"15-19 years"	"15-19"	243	432728	56.2
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"20-24 years"	"20-24"	405	423472	95.6
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"25-29 years"	"25-29"	411	379051	108.4
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"30-34 years"	"30-34"	394	336675	117.0
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"35-39 years"	"35-39"	495	344324	143.8
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"40-44 years"	"40-44"	841	352418	238.6
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"45-49 years"	"45-49"	1369	396884	344.9
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"50-54 years"	"50-54"	2029	402315	504.3
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"55-59 years"	"55-59"	2533	372878	679.3
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"60-64 years "	"60-64"	3017	312372	965.8
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"65-69 years"	"65-69"	3552	244766	1451.2
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"70-74 years"	"70-74"	4285	188342	2275.1
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"75-79 years"	"75-79"	5559	149840	3710.0
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"80-84 years"	"80-84"	7133	112807	6323.2
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"85-89 years"	"85-89"	7194	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"90-94 years"	"90-94"	4920	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"95-99 years"	"95-99"	1853	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Small Metro"	"4"	"100+ years"	"100+"	336	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"< 1 year"	"1"	373	62620	595.7
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"1-4 years"	"1-4"	100	236151	42.3
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"5-9 years"	"5-9"	35	285115	12.3
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"10-14 years"	"10-14"	60	295757	20.3
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"15-19 years"	"15-19"	262	330145	79.4
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"20-24 years"	"20-24"	366	313965	116.6
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"25-29 years"	"25-29"	364	285316	127.6
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"30-34 years"	"30-34"	357	255590	139.7
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"35-39 years"	"35-39"	512	265845	192.6
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"40-44 years"	"40-44"	687	273276	251.4
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"45-49 years"	"45-49"	1185	319466	370.9
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"50-54 years"	"50-54"	1675	335166	499.8
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"55-59 years"	"55-59"	2144	313029	684.9
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"60-64 years "	"60-64"	2527	260425	970.3
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"65-69 years"	"65-69"	3104	198267	1565.6
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"70-74 years"	"70-74"	3600	146472	2457.8
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"75-79 years"	"75-79"	4293	113910	3768.8
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"80-84 years"	"80-84"	5175	83715	6181.7
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"85-89 years"	"85-89"	5463	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"90-94 years"	"90-94"	3720	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"95-99 years"	"95-99"	1450	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Micropolitan (non-metro)"	"5"	"100+ years"	"100+"	255	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"< 1 year"	"1"	202	25957	778.2
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"1-4 years"	"1-4"	36	100613	35.8
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"5-9 years"	"5-9"	25	126000	19.8
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"10-14 years"	"10-14"	38	135745	28.0
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"15-19 years"	"15-19"	142	145346	97.7
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"20-24 years"	"20-24"	187	107384	174.1
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"25-29 years"	"25-29"	166	106844	155.4
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"30-34 years"	"30-34"	197	103085	191.1
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"35-39 years"	"35-39"	227	111886	202.9
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"40-44 years"	"40-44"	347	122403	283.5
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"45-49 years"	"45-49"	590	152658	386.5
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"50-54 years"	"50-54"	799	164413	486.0
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"55-59 years"	"55-59"	1057	158375	667.4
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"60-64 years "	"60-64"	1324	134509	984.3
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"65-69 years"	"65-69"	1510	106836	1413.4
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"70-74 years"	"70-74"	1871	79210	2362.1
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"75-79 years"	"75-79"	2154	59868	3597.9
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"80-84 years"	"80-84"	2704	42494	6363.3
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"85-89 years"	"85-89"	2653	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"90-94 years"	"90-94"	1850	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"95-99 years"	"95-99"	797	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"NonCore (non-metro)"	"6"	"100+ years"	"100+"	160	Not Applicable	Not Applicable
