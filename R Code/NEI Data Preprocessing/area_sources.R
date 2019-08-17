@@ -20,7 +20,7 @@ library(data.table)
 
 setwd('...PNAS_SectoralMortality/')
 
-## Files were downloaded from https://www.epa.gov/air-emissions-inventories/ in July 2018 
+## Files were downloaded from ftp://newftp.epa.gov/air/nei/2014/data_summaries/ in July 2018 
 ## 
 nonpoint<-read.csv('Raw Data/EPA/2014/nonpoint.csv', stringsAsFactors = FALSE) ###
 
