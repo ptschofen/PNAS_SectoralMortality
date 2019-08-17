@@ -1,6 +1,6 @@
 # Set working directory
 
-setwd('C:/Users/ptsch/Desktop/PNAS_SectoralMortality')
+setwd('...PNAS_SectoralMortality')
 
 # Load Packages
 library(dplyr)
@@ -167,7 +167,7 @@ for (i in 1:nrow(pop.2008)){
     pop.2008[i, j]<-pop.2008.key[i, 21]*pop.2008.key[i, j]
   }
 }
-
+setwd('...Desktop/PNAS_SectoralMortality')
 write.table(pop.2008[,2:20], sep=",", 'pop_2008.csv',  col.names=FALSE, row.names=F)
 write.table(pop.2011[,2:20], sep=",", 'pop_2011.csv',  col.names=FALSE, row.names=F)
 write.table(pop.2014[,2:20], sep=",", 'pop_2014.csv',  col.names=FALSE, row.names=F)
