@@ -3,9 +3,11 @@
 
 1. Calculate Effective Heights for facilities based on most recent available facility data
 2. Pre-process NEI data for running AP3 model and future use in GED calculations, doing so separately for area sources and point sources
-3. Run AP3 for marginal damage computations in Matlab
-4. Run R scripts related to GED calculations
-5. Post-processing of results in either R, Excel or ArcGIS
+3. Run population and mortality scripts
+4. Run AP3 for marginal damage computations in Matlab
+5. Run R scripts related to GED calculations: GED Calcs, model comparison, ag_attribution
+ 
+Post-processing of results in either R, Excel or ArcGIS
 
 
 ## Folder Paths for Code
@@ -28,7 +30,8 @@ In Section 3 of the R script, biogenic VOC emissions get pulled out for the purp
 Also, there are a number of facilities with no clear FIPS code attribution. For the purposes of having an input file for AP3, it was assumed that their emissions happen within the counties in the state in which they occur according to the fraction of NOx emissions from low stacks, however they were not further used for the computation of GED.
 
 ## Population/Mortality Data
-Call up PM_Setup and configure input files (2011 worksheets, emissions, population, mortality), configure parameters for VRMR and DR, configure parameters for calibration from .pdf file
-Call up Emission_comparisons
+The population script uses some CDC data to estimate the infant population and population 1-4. The mortality script follows a method employed by previous versions of AP3/AP2/APEEP to estimate mortality rates for age groups within counties where CDC data is not published: the method is to use state average data if possible, region average data if state averages are not available, or national averages if regional averages are not available. Mortality rates get computed for all age groups, although the AP3 model only considers infants and people over 30 when estimating air pollution mortality events.
 
 ## How to use AP3
+Call up PM_Setup and configure input files (2011 worksheets, emissions, population, mortality), configure parameters for VRMR and DR, configure parameters for calibration from .pdf file
+Call up AP3_Outputs and change filenames for NEI years
