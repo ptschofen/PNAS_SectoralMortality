@@ -35,3 +35,6 @@ The population script uses some CDC data to estimate the infant population and p
 ## How to use AP3
 Call up PM_Setup and configure input files (2011 worksheets, emissions, population, mortality), configure parameters for VRMR and DR, configure parameters for calibration from .pdf file
 Call up AP3_Outputs and change filenames for NEI years
+
+## GED_Calcs script
+Generates most of the final data in the paper. Computes numbers for Fig. 2, Fig. 3, Tables 1 and 2 (with the exception of InMAP GED), and content of the appendix. Requires some inputs such as the list of tall facilities in AP3, a file with the order of sectors in BEA's tables, VA data from BEA, MDs and population adjustment factors from EASIUR, MD files generated in AP3 in previous step.
