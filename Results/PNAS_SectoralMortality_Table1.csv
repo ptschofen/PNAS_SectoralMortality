@@ -1,0 +1,11 @@
+summary,GED.VA,summary,GED.VA,summary,GED.VA
+Water transportation,1.9,Animal production and aquaculture,1.7,Animal production and aquaculture,2.0
+Animal production and aquaculture,1.6,Water transportation,1.2,Waste management and remediation services,0.87
+"Electric power generation, transmission, and distribution",1.4,Crop production,1.1,Water transportation,0.78
+Crop production,1.2,"Electric power generation, transmission, and distribution",0.76,Crop production,0.72
+Truck transportation,0.86,Truck transportation,0.76,"Electric power generation, transmission, and distribution",0.63
+Waste management and remediation services,0.63,Rail transportation,0.37,Truck transportation,0.56
+Nonmetallic mineral products,0.35,Waste management and remediation services,0.35,Rail transportation,0.35
+Rail transportation,0.32,Nonmetallic mineral products,0.29,Nonmetallic mineral products,0.28
+Iron and steel mills and manufacturing from purchased steel,0.32,Iron and steel mills and manufacturing from purchased steel,0.28,Transit and ground passenger transportation,0.28
+Transit and ground passenger transportation,0.27,Transportation structures and highways and streets,0.26,Iron and steel mills and manufacturing from purchased steel,0.23

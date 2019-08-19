@@ -1,4 +1,4 @@
-setwd('C:/Users/ptsch/Desktop/PNAS_SectoralMortality')
+setwd('...PNAS_SectoralMortality')
 
 ## Load Packages, set working directory
 library(dplyr)
@@ -22,6 +22,7 @@ FIPS<-FIPS[3]
 
 ## Read in NAICS Mapping file
 naics.map<-read.csv('naics_map.csv')
+
 for(k in 1:3){
   print(k)
 ## Read in AP3 Tall and Tall 2 data, remove unneeded columns
@@ -131,7 +132,6 @@ fac.tall2<-left_join(fac.tall2, MD.T2, by='eis')
 facilities.MD<-rbind(fac.low, fac.med, fac.tall, fac.tall2)
 facilities.MD<-facilities.MD[,-which(names(facilities.MD) %in% 'eff_height')]
 facilities.MD[is.na(facilities.MD)]<-0
-
 facilities<-facilities[order(facilities$eis),]
 facilities.MD<-facilities.MD[order(facilities.MD$eis),]
 facilities.GED<-facilities[, emi]*facilities.MD[, mds]
@@ -410,6 +410,7 @@ assign(paste("fac.ged", year[k], sep = ".") , joint.total)
 assign(paste("area.ged", year[k], sep = ".") , joint.A)
 assign(paste("T1", year[k], sep = ".") , TA1)
 assign(paste("T2", year[k], sep = ".") , TA2)
+assign('as.inmap.input', area.sources.grouped)
 
 ## EASIUR method (remove pollutants in MD file that will be replaced by EASIUR MDs)
 facilities.MD<-facilities.MD[-which(names(facilities.MD) %in% c('MD.NH3', 'MD.NOx', 
@@ -596,11 +597,12 @@ va.sector$VA<-va.sector$VA/10^3*1.09996
 ## calculate GED/VA ratios
 va.sector$GED.VA<-va.sector$GED.sum/va.sector$VA
 
-## Create tables for CEDM seminar
+## Create tables
 T1.easiur<-va.sector[, c(1, 12, 14)]
 write.csv(T1.easiur, paste('easiur_sector_overview_', year[k], '.csv', sep=''), row.names = F)
 
 assign(paste("easiur.va.sector", year[k], sep = ".") , va.sector)
+assign('fac.inmap.input', facilities.MD)
 
 rm(area.sources.grouped, area.sources.naics, area.sources.total, eff.heights)
 rm(fac.low, fac.med, fac.tall, fac.tall2, facilities.GED, facilities.MD)
@@ -609,3 +611,319 @@ rm(naics.sector.as, naics.sector.total, naics.subsector.as, naics.subsector.fac)
 rm(naics.subsector.total, tall, tall2, value.added, naics.summary.as, naics.summary.total)
 rm(naics.summary.fac)
 }
+
+k<-3
+area.sources.2014<-read.csv(paste('area_sources_for_NAICS_', year[k], '.csv', sep=''))
+names(area.sources.2014)<-c('SCC', 'FIPS', 'County', 'Description', emi)
+area.sources<-left_join(area.sources.2014, scc.list, by='SCC')
+
+# Agriculture: By type of SCC Level 3 Description
+area.sources.ag<-area.sources[which(area.sources$naics.sector=='Agriculture, forestry, fishing, and hunting'),]
+
+# Make sure all NAs are "Not attributed"
+area.sources$naics.sector[is.na(area.sources$naics.sector)] <- 'No attribution'
+area.sources$naics.subsector[is.na(area.sources$naics.subsector)] <- 'No attribution'
+area.sources$naics.summary[is.na(area.sources$naics.summary)] <- 'No attribution'
+area.sources$naics.industry[is.na(area.sources$naics.industry)] <- 'No attribution'
+
+#### Pull out AG NAICS codes for 2014 in facilities file
+# Agriculture
+## Farms
+### Crop Production
+sector<-'Agriculture, forestry, fishing, and hunting'
+subsector<-'Farms'
+summary<-'Crop production'
+codes<-c(111, 1110:1119, 11100:11199, 111000:111999)
+
+crops<-as.data.frame(codes)
+crops$sector<-sector
+crops$subsector<-subsector
+crops$summary<-summary
+
+### Animal production and aquaculture
+summary<-'Animal production and aquaculture'
+codes<-c(112, 1120:1129, 11200:11299, 112000:112999)
+
+animals<-as.data.frame(codes)
+animals$sector<-sector
+animals$subsector<-subsector
+animals$summary<-summary
+
+## Farms
+### Crop Production
+subsector<-'Forestry, fishing, and related activities'
+summary<-'Forestry, fishing, and related activities'
+codes<-c(113:115, 1130:1159, 11300:11599, 113000:115999)
+
+forestry<-as.data.frame(codes)
+forestry$sector<-sector
+forestry$subsector<-subsector
+forestry$summary<-summary
+
+naics.ag<-rbind(crops, animals, forestry)
+naics.ag<-naics.ag[, 1]
+naics.ag<-as.data.frame(naics.ag)
+names(naics.ag)[1]<-'NAICS'
+fac.ag<-inner_join(naics.ag, fac.ged.2014)
+area.ged.ag<-area.ged.2014[which(area.ged.2014$sector=='Agriculture, forestry, fishing, and hunting'),]
+
+# Oilseed farming
+industry<-'Oilseed farming'
+NAICS<-c(11111, 11112, 111110:111129)
+oilseed<-as.data.frame(cbind(NAICS, industry))
+
+# Grain farming
+industry<-'Grain farming'
+NAICS<-c(11113:11116, 111130:111169, 11119, 111190:111199)
+grain<-as.data.frame(cbind(NAICS, industry))
+
+# Vegetable and melon farming
+industry<-'Vegetable and melon farming'
+NAICS<-c(1112, 11120:11129, 111200:111299)
+vegetable<-as.data.frame(cbind(NAICS, industry))
+
+# Fruit and tree nut farming
+industry<-'Fruit and tree nut farming'
+NAICS<-c(1113, 11130:11139, 111300:111399)
+fruit<-as.data.frame(cbind(NAICS, industry))
+
+# Greenhouse, nursery, and floriculture production
+industry<-'Greenhouse, nursery, and floriculture production'
+NAICS<-c(1114, 11140:11149, 111400:111499)
+greenhouse<-as.data.frame(cbind(NAICS, industry))
+
+# Other crop farming
+industry<-'Other crop farming'
+NAICS<-c(1119, 11190:11199, 111900:111999)
+other.crop<-as.data.frame(cbind(NAICS, industry))
+
+# Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming
+industry<-'Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming'
+NAICS<-c(11211, 11213, 112110:112119, 112130:112139)
+beef<-as.data.frame(cbind(NAICS, industry))
+
+# Dairy cattle and milk production
+industry<-'Dairy cattle and milk production'
+NAICS<-c(11212, 112120:112129)
+dairy<-as.data.frame(cbind(NAICS, industry))
+
+# Animal production, except cattle and poultry and eggs
+industry<-'Animal production, except cattle and poultry and eggs'
+NAICS<-c(1122, 1124, 1125, 1129, 11220:11229, 11240:11259, 112200:112299, 112400:112599, 
+         11290:11299, 112900:112999)
+animal<-as.data.frame(cbind(NAICS, industry))
+
+# Poultry and egg production
+industry<-'Poultry and egg production'
+NAICS<-c(1123, 11230:11239, 112300:112399)
+poultry<-as.data.frame(cbind(NAICS, industry))
+
+# Forestry and logging
+industry<-'Forestry and logging'
+NAICS<-c(1130:1139, 11300:11399, 113000:113999)
+forestry<-as.data.frame(cbind(NAICS, industry))
+
+# Fishing, hunting and trapping
+industry<-'Forestry and logging'
+NAICS<-c(1140:1149, 11400:11499, 114000:114999)
+fishing<-as.data.frame(cbind(NAICS, industry))
+
+# Support activities for agriculture and forestry
+industry<-'Support activities for agriculture and forestry'
+NAICS<-c(1150:1159, 11500:11599, 115000:115999)
+support<-as.data.frame(cbind(NAICS, industry))
+
+ag.industries<-rbind(oilseed, grain, vegetable, fruit, greenhouse, other.crop,
+                     beef, dairy, animal, poultry,
+                     forestry, fishing, support)
+ag.industries$NAICS<-as.numeric(as.character(ag.industries$NAICS))
+
+rm(oilseed, grain, vegetable, fruit, greenhouse, other.crop,
+   beef, dairy, animal, poultry,
+   forestry, fishing, support)
+
+fac.ag<-inner_join(fac.ag, ag.industries)
+
+fac.ag<-fac.ag[, c('industry', emi, ged, 'GED.sum')]
+area.ag<-area.ged.ag[, c('industry', emi, ged, 'GED.sum')]
+
+ag.industry.total<-rbind(fac.ag, area.ag)
+
+ag.industry.total <- ag.industry.total %>% group_by(industry) %>%
+  summarize(E.NH3=sum(NH3, na.rm=T),
+            E.NOx=sum(NOx, na.rm=T),
+            E.PM25=sum(PM25, na.rm=T),
+            E.SO2=sum(SO2, na.rm=T),
+            E.VOC=sum(VOC, na.rm=T),
+            GED.NH3=sum(GED.NH3, na.rm=T)*inc.adj[k],
+            GED.NOx=sum(GED.NOx, na.rm=T)*inc.adj[k],
+            GED.PM25=sum(GED.PM25, na.rm=T)*inc.adj[k],
+            GED.SO2=sum(GED.SO2, na.rm=T)*inc.adj[k],
+            GED.VOC=sum(GED.VOC, na.rm=T)*inc.adj[k],
+            GED.sum=sum(GED.sum, na.rm=T)*inc.adj[k])
+
+write.csv(ag.industry.total, 'ag_industry_ged_2014.csv', row.names=F)
+
+## InMAP MDs for model comparison
+
+## Using CACES Download data for IAMs
+# Read in data (download from CACES website 2018-11-27; VSL: 6299143; DR: Pope)
+ground<-read.csv('VSL_6299143_ground.csv')
+elevated<-read.csv('VSL_6299143_elevated.csv')
+
+# Remove seasonal values
+ground<-ground[which(ground$season=='annual'),]
+elevated<-elevated[which(elevated$season=='annual'),]
+
+# Gather by pollutant
+ground<-ground %>% spread(pollutant, damage)
+elevated<-elevated %>% spread(pollutant, damage)
+
+# Change FIPS code of Miami Dade to APEEP format
+ground$fips[which(ground$fips==12086)]<-12025
+elevated$fips[which(elevated$fips==12086)]<-12025
+
+# Reorder
+ground<-ground[order(ground$fips),]
+elevated<-elevated[order(elevated$fips),]
+
+# Separate out the IAMs
+ground.inmap<-ground[which(ground$model=='InMAP'),]
+elevated.inmap<-elevated[which(elevated$model=='InMAP'),]
+
+facilities.MD<-fac.inmap.input
+facilities.MD<-facilities.MD[-which(names(facilities.MD) %in% mds)]
+
+# Rename columns, remove unneeded ones
+ground.inmap<-ground.inmap[-which(names(ground.inmap) %in% c('state_abbr', 'model', 
+                                                             'season', 'elevated'))]
+
+names(ground.inmap)<-c('FIPS', mds)
+
+elevated.inmap<-elevated.inmap[-which(names(elevated.inmap) %in% c('state_abbr', 'model', 
+                                                                   'season', 'elevated'))]
+
+names(elevated.inmap)<-c('FIPS', mds)
+
+# Convert to short tons
+ground.inmap[, mds]<-ground.inmap[, mds]/1.10231
+elevated.inmap[, mds]<-elevated.inmap[, mds]/1.10231
+
+# Join with facilities
+facilities.MD<-left_join(facilities.MD, elevated.inmap, by='FIPS')
+
+facilities.GED<-facilities[, emi]*facilities.MD[, mds]
+names(facilities.GED)<-ged
+
+facilities.GED <- facilities.GED %>% mutate(GED.sum=GED.NH3+GED.NOx+GED.PM25+GED.SO2+GED.VOC)
+
+joint.total.inmap<-cbind(facilities, facilities.GED)
+
+## Group by NAICS
+joint.by.naics.inmap<-joint.total.inmap %>% group_by(NAICS) %>% 
+  summarize(E.NH3=sum(NH3, na.rm=T),
+            E.NOx=sum(NOx, na.rm=T),
+            E.PM25=sum(PM25, na.rm=T),
+            E.SO2=sum(SO2, na.rm=T),
+            E.VOC=sum(VOC, na.rm=T),
+            GED.NH3=sum(GED.NH3, na.rm=T),
+            GED.NOx=sum(GED.NOx, na.rm=T),
+            GED.PM25=sum(GED.PM25, na.rm=T),
+            GED.SO2=sum(GED.SO2, na.rm=T),
+            GED.VOC=sum(GED.VOC, na.rm=T),
+            GED.sum=sum(GED.sum, na.rm=T))
+
+## Join NAICS Dictionary to this
+joint.all.naics.inmap<-left_join(joint.by.naics.inmap, naics.map, by='NAICS')
+
+MD.A.inmap<-ground.inmap
+
+# Join Emissions and MDs
+area.sources.grouped<-as.inmap.input
+joint.A.inmap<-left_join(area.sources.grouped, MD.A.inmap, by='FIPS')
+
+GED.A.inmap<-joint.A.inmap[, emi]*joint.A.inmap[, mds]
+colnames(GED.A.inmap)<-ged
+GED.A.inmap$GED.sum<-GED.A.inmap$GED.NH3 + GED.A.inmap$GED.NOx + GED.A.inmap$GED.PM25 + 
+  GED.A.inmap$GED.SO2 + GED.A.inmap$GED.VOC
+
+write.csv(joint.A.inmap, 'j.csv', row.names = F)
+joint.A.inmap<-read.csv('j.csv')
+
+joint.A.inmap<-cbind(joint.A.inmap, GED.A.inmap)
+names(joint.A.inmap)[2:4]<-c('sector', 'subsector', 'industry')
+
+## Sum by sector and inflate from 2000 to 2018 prices
+naics.sector.fac.inmap<-joint.all.naics.inmap %>% group_by(sector) %>%
+  summarize(E.NH3=sum(E.NH3, na.rm=T),
+            E.NOx=sum(E.NOx, na.rm=T),
+            E.PM25=sum(E.PM25, na.rm=T),
+            E.SO2=sum(E.SO2, na.rm=T),
+            E.VOC=sum(E.VOC, na.rm=T),
+            GED.NH3=sum(GED.NH3, na.rm=T)*1.458327*inc.adj[k],
+            GED.NOx=sum(GED.NOx, na.rm=T)*1.458327*inc.adj[k],
+            GED.PM25=sum(GED.PM25, na.rm=T)*1.458327*inc.adj[k],
+            GED.SO2=sum(GED.SO2, na.rm=T)*1.458327*inc.adj[k],
+            GED.VOC=sum(GED.VOC, na.rm=T)*1.458327*inc.adj[k],
+            GED.sum=sum(GED.sum, na.rm=T)*1.458327*inc.adj[k])
+
+naics.sector.as.inmap<-joint.A.inmap %>% group_by(sector) %>%  
+  summarize(E.NH3=sum(NH3, na.rm=T),
+            E.NOx=sum(NOx, na.rm=T),
+            E.PM25=sum(PM25, na.rm=T),
+            E.SO2=sum(SO2, na.rm=T),
+            E.VOC=sum(VOC, na.rm=T),
+            GED.NH3=sum(GED.NH3, na.rm=T)*1.458327*inc.adj[k],
+            GED.NOx=sum(GED.NOx, na.rm=T)*1.458327*inc.adj[k],
+            GED.PM25=sum(GED.PM25, na.rm=T)*1.458327*inc.adj[k],
+            GED.SO2=sum(GED.SO2, na.rm=T)*1.458327*inc.adj[k],
+            GED.VOC=sum(GED.VOC, na.rm=T)*1.458327*inc.adj[k],
+            GED.sum=sum(GED.sum, na.rm=T)*1.458327*inc.adj[k])
+
+naics.sector.total.inmap<-rbind(naics.sector.fac.inmap, naics.sector.as.inmap)
+
+naics.sector.total.inmap<-naics.sector.total.inmap %>% group_by(sector) %>%
+  summarize(E.NH3=sum(E.NH3, na.rm=T),
+            E.NOx=sum(E.NOx, na.rm=T),
+            E.PM25=sum(E.PM25, na.rm=T),
+            E.SO2=sum(E.SO2, na.rm=T),
+            E.VOC=sum(E.VOC, na.rm=T),
+            GED.NH3=sum(GED.NH3, na.rm=T),
+            GED.NOx=sum(GED.NOx, na.rm=T),
+            GED.PM25=sum(GED.PM25, na.rm=T),
+            GED.SO2=sum(GED.SO2, na.rm=T),
+            GED.VOC=sum(GED.VOC, na.rm=T),
+            GED.sum=sum(GED.sum, na.rm=T))
+
+sector.order<-read.csv('sector_order.csv', header = F)
+names(sector.order)<-'sector'
+naics.sector.total.inmap<-left_join(sector.order, naics.sector.total.inmap)
+
+write.csv(naics.sector.total.inmap, 'naics_sector_inmap_2014.csv', row.names = F)
+
+## Read in Value added file (original file:
+value.added<-read.csv('VA_for_ModelYears.csv')
+naics.sector.inmap<-read.csv('naics_sector_inmap_2014.csv')
+
+value.added<-value.added[,c('Sector' , 'VA.2014')]
+names(value.added)<-c('sector', 'VA')
+
+### Sectoral Analysis
+naics.sector.inmap$sector<-as.character(naics.sector.inmap$sector)
+value.added$sector<-as.character(value.added$sector)
+va.sector<-left_join(naics.sector.inmap, value.added, by='sector')
+
+## Convert everything to $ 2012 billion
+va.sector$GED.sum<-va.sector$GED.sum/10^9
+va.sector$VA<-va.sector$VA/10^3*1.09996
+
+## calculate GED/VA ratios
+va.sector$GED.VA<-va.sector$GED.sum/va.sector$VA
+names(T1.2014)<-c('sector', 'GED.AP3', 'GED.VA')
+names(T1.easiur)<-c('sector', 'GED.EASIUR', 'GED.VA')
+T1.inmap<-va.sector[, c(1, 12, 14)]
+names(T1.inmap)<-c('sector', 'GED.InMAP', 'GED.VA')
+
+T2.PNAS<-left_join(T1.2014, T1.easiur, by='sector')
+T2.PNAS<-left_join(T2.PNAS, T1.inmap, by='sector')
+write.csv(T2.PNAS, 'T2_model_comparison_2014.csv', row.names=F)
